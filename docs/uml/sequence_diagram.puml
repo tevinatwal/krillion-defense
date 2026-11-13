@@ -1,0 +1,22 @@
+@startuml sequence_diagram
+title Krillion Defense - Sequence Diagram: Answering a Question
+skinparam monochrome true
+skinparam shadowing false
+
+actor Player
+participant GamePanel
+participant QuestionManager
+participant QuestionDialog
+participant RewardFactory
+
+GamePanel -> QuestionManager : nextQuestion()
+QuestionManager --> GamePanel : question
+GamePanel -> QuestionDialog : showQuestion(question)
+Player -> QuestionDialog : types answer
+QuestionDialog --> GamePanel : answer
+GamePanel -> QuestionManager : submitAnswer(question, answer)
+QuestionManager --> GamePanel : result (Common...Legendary)
+GamePanel -> RewardFactory : create(tier)
+RewardFactory --> GamePanel : power-up
+GamePanel -> GamePanel : apply power-up
+@enduml

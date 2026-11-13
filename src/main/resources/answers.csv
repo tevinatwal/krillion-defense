@@ -1,0 +1,4010 @@
+# Krillion Defense answers. Format:
+# #prompt,category,question text
+# category,answer,level (1 = most common ... 5 = rarest),aliases separated by |
+#prompt,africa_countries,Name a country in Africa
+africa_countries,nigeria,1,
+africa_countries,south africa,1,
+africa_countries,egypt,1,
+africa_countries,kenya,1,
+africa_countries,ghana,1,
+africa_countries,ethiopia,2,
+africa_countries,morocco,2,
+africa_countries,madagascar,2,
+africa_countries,somalia,2,
+africa_countries,sudan,2,
+africa_countries,uganda,2,
+africa_countries,tanzania,2,
+africa_countries,zimbabwe,2,
+africa_countries,rwanda,2,
+africa_countries,algeria,3,
+africa_countries,libya,3,
+africa_countries,senegal,3,
+africa_countries,cameroon,3,
+africa_countries,congo,3,republic of the congo
+africa_countries,democratic republic of the congo,3,drc|dr congo
+africa_countries,tunisia,3,
+africa_countries,angola,3,
+africa_countries,mali,3,
+africa_countries,zambia,3,
+africa_countries,namibia,3,
+africa_countries,botswana,3,
+africa_countries,mozambique,3,
+africa_countries,ivory coast,4,cote divoire
+africa_countries,niger,4,
+africa_countries,chad,4,
+africa_countries,liberia,4,
+africa_countries,sierra leone,4,
+africa_countries,south sudan,4,
+africa_countries,malawi,4,
+africa_countries,burkina faso,4,
+africa_countries,gabon,4,
+africa_countries,togo,4,
+africa_countries,benin,4,
+africa_countries,eritrea,4,
+africa_countries,mauritania,4,
+africa_countries,guinea,4,
+africa_countries,lesotho,5,
+africa_countries,eswatini,5,swaziland
+africa_countries,gambia,5,
+africa_countries,mauritius,5,
+africa_countries,burundi,5,
+africa_countries,central african republic,5,
+africa_countries,equatorial guinea,5,
+africa_countries,cape verde,5,cabo verde
+africa_countries,djibouti,5,
+africa_countries,guinea bissau,5,
+africa_countries,seychelles,5,
+africa_countries,comoros,5,
+africa_countries,sao tome and principe,5,sao tome
+#prompt,us_states,Name a US state
+us_states,california,1,
+us_states,texas,1,
+us_states,florida,1,
+us_states,new york,1,
+us_states,washington,2,washington state
+us_states,hawaii,2,
+us_states,alaska,2,
+us_states,ohio,2,
+us_states,illinois,2,
+us_states,georgia,2,
+us_states,arizona,2,
+us_states,nevada,2,
+us_states,colorado,2,
+us_states,michigan,3,
+us_states,oregon,3,
+us_states,massachusetts,3,
+us_states,pennsylvania,3,
+us_states,new jersey,3,
+us_states,virginia,3,
+us_states,north carolina,3,
+us_states,louisiana,3,
+us_states,tennessee,3,
+us_states,utah,3,
+us_states,kentucky,3,
+us_states,alabama,3,
+us_states,south carolina,4,
+us_states,minnesota,4,
+us_states,wisconsin,4,
+us_states,maryland,4,
+us_states,missouri,4,
+us_states,indiana,4,
+us_states,oklahoma,4,
+us_states,kansas,4,
+us_states,iowa,4,
+us_states,new mexico,4,
+us_states,connecticut,4,
+us_states,mississippi,4,
+us_states,arkansas,4,
+us_states,maine,5,
+us_states,montana,5,
+us_states,idaho,5,
+us_states,nebraska,5,
+us_states,west virginia,5,
+us_states,vermont,5,
+us_states,new hampshire,5,
+us_states,rhode island,5,
+us_states,delaware,5,
+us_states,south dakota,5,
+us_states,wyoming,5,
+us_states,north dakota,5,
+#prompt,fruits,Name a fruit
+fruits,apple,1,
+fruits,banana,1,
+fruits,orange,1,
+fruits,strawberry,1,
+fruits,grape,1,
+fruits,mango,2,
+fruits,pineapple,2,
+fruits,watermelon,2,
+fruits,peach,2,
+fruits,pear,2,
+fruits,cherry,2,
+fruits,blueberry,2,
+fruits,kiwi,2,kiwifruit
+fruits,lemon,3,
+fruits,raspberry,3,
+fruits,lime,3,
+fruits,coconut,3,
+fruits,blackberry,3,
+fruits,plum,3,
+fruits,apricot,3,
+fruits,grapefruit,3,
+fruits,pomegranate,3,
+fruits,cantaloupe,3,rockmelon
+fruits,avocado,3,
+fruits,papaya,3,
+fruits,tangerine,3,
+fruits,guava,4,
+fruits,passion fruit,4,passionfruit
+fruits,dragon fruit,4,dragonfruit|pitaya
+fruits,nectarine,4,
+fruits,lychee,4,litchi
+fruits,fig,4,
+fruits,cranberry,4,
+fruits,honeydew,4,
+fruits,clementine,4,
+fruits,date,4,
+fruits,jackfruit,4,
+fruits,starfruit,4,star fruit|carambola
+fruits,gooseberry,4,
+fruits,persimmon,5,
+fruits,tomato,5,
+fruits,durian,5,
+fruits,kumquat,5,
+fruits,elderberry,5,
+fruits,mangosteen,5,
+fruits,rambutan,5,
+fruits,quince,5,
+fruits,pawpaw,5,
+fruits,feijoa,5,
+fruits,cherimoya,5,
+fruits,ackee,5,
+fruits,salak,5,
+#prompt,dog_breeds,Name a dog breed
+dog_breeds,golden retriever,1,golden
+dog_breeds,labrador retriever,1,lab|labrador
+dog_breeds,german shepherd,1,german shepherd dog
+dog_breeds,poodle,1,
+dog_breeds,bulldog,1,
+dog_breeds,beagle,2,
+dog_breeds,chihuahua,2,
+dog_breeds,siberian husky,2,husky
+dog_breeds,pug,2,
+dog_breeds,rottweiler,2,
+dog_breeds,dachshund,2,
+dog_breeds,french bulldog,2,frenchie
+dog_breeds,corgi,2,welsh corgi
+dog_breeds,great dane,2,
+dog_breeds,pit bull,3,pitbull
+dog_breeds,doberman,3,doberman pinscher
+dog_breeds,shih tzu,3,
+dog_breeds,dalmatian,3,
+dog_breeds,border collie,3,
+dog_breeds,boxer,3,
+dog_breeds,yorkshire terrier,3,yorkie
+dog_breeds,pomeranian,3,
+dog_breeds,australian shepherd,3,aussie
+dog_breeds,greyhound,3,
+dog_breeds,cocker spaniel,3,
+dog_breeds,saint bernard,3,st bernard
+dog_breeds,bernese mountain dog,3,
+dog_breeds,shiba inu,4,shiba
+dog_breeds,jack russell terrier,4,
+dog_breeds,maltese,4,
+dog_breeds,samoyed,4,
+dog_breeds,akita,4,
+dog_breeds,mastiff,4,
+dog_breeds,bloodhound,4,
+dog_breeds,bichon frise,4,
+dog_breeds,chow chow,4,
+dog_breeds,cavalier king charles spaniel,4,
+dog_breeds,newfoundland,4,
+dog_breeds,shar pei,4,
+dog_breeds,whippet,4,
+dog_breeds,weimaraner,4,
+dog_breeds,vizsla,5,
+dog_breeds,irish wolfhound,5,
+dog_breeds,borzoi,5,
+dog_breeds,basenji,5,
+dog_breeds,saluki,5,
+dog_breeds,puli,5,
+dog_breeds,keeshond,5,
+dog_breeds,komondor,5,
+dog_breeds,catahoula,5,
+dog_breeds,affenpinscher,5,
+dog_breeds,otterhound,5,
+dog_breeds,xoloitzcuintli,5,xolo
+dog_breeds,lagotto romagnolo,5,
+#prompt,programming_languages,Name a programming language
+programming_languages,python,1,
+programming_languages,java,1,
+programming_languages,javascript,1,js
+programming_languages,c++,1,cpp
+programming_languages,c,2,
+programming_languages,c#,2,csharp|c sharp
+programming_languages,rust,2,
+programming_languages,go,2,golang
+programming_languages,typescript,2,ts
+programming_languages,swift,2,
+programming_languages,php,2,
+programming_languages,ruby,2,
+programming_languages,sql,3,
+programming_languages,kotlin,3,
+programming_languages,r,3,
+programming_languages,matlab,3,
+programming_languages,assembly,3,assembly language
+programming_languages,scala,3,
+programming_languages,lua,3,
+programming_languages,perl,3,
+programming_languages,haskell,3,
+programming_languages,bash,3,shell
+programming_languages,dart,3,
+programming_languages,objective c,3,objectivec
+programming_languages,scratch,4,
+programming_languages,julia,4,
+programming_languages,cobol,4,
+programming_languages,fortran,4,
+programming_languages,visual basic,4,vb
+programming_languages,lisp,4,
+programming_languages,pascal,4,
+programming_languages,basic,4,
+programming_languages,prolog,4,
+programming_languages,elixir,4,
+programming_languages,clojure,4,
+programming_languages,erlang,4,
+programming_languages,groovy,5,
+programming_languages,ocaml,5,
+programming_languages,racket,5,
+programming_languages,f#,5,fsharp
+programming_languages,ada,5,
+programming_languages,zig,5,
+programming_languages,smalltalk,5,
+programming_languages,nim,5,
+programming_languages,forth,5,
+programming_languages,elm,5,
+programming_languages,apl,5,
+programming_languages,crystal,5,
+#prompt,elements,Name a chemical element
+elements,oxygen,1,
+elements,hydrogen,1,
+elements,carbon,1,
+elements,gold,1,
+elements,iron,1,
+elements,helium,1,
+elements,nitrogen,2,
+elements,silver,2,
+elements,copper,2,
+elements,sodium,2,
+elements,calcium,2,
+elements,uranium,2,
+elements,aluminum,2,aluminium
+elements,lead,2,
+elements,neon,2,
+elements,potassium,2,
+elements,chlorine,2,
+elements,magnesium,2,
+elements,zinc,2,
+elements,mercury,3,
+elements,platinum,3,
+elements,lithium,3,
+elements,sulfur,3,sulphur
+elements,titanium,3,
+elements,silicon,3,
+elements,plutonium,3,
+elements,nickel,3,
+elements,tin,3,
+elements,phosphorus,3,
+elements,argon,3,
+elements,fluorine,3,
+elements,iodine,3,
+elements,cobalt,3,
+elements,krypton,3,
+elements,xenon,3,
+elements,radon,3,
+elements,chromium,3,
+elements,radium,3,
+elements,boron,4,
+elements,manganese,4,
+elements,arsenic,4,
+elements,tungsten,4,
+elements,beryllium,4,
+elements,bismuth,4,
+elements,palladium,4,
+elements,cesium,4,caesium
+elements,iridium,4,
+elements,osmium,4,
+elements,gallium,4,
+elements,selenium,4,
+elements,francium,4,
+elements,germanium,4,
+elements,barium,4,
+elements,antimony,4,
+elements,thorium,4,
+elements,strontium,4,
+elements,einsteinium,4,
+elements,vanadium,5,
+elements,tellurium,5,
+elements,yttrium,5,
+elements,americium,5,
+elements,molybdenum,5,
+elements,technetium,5,
+elements,gadolinium,5,
+elements,rhenium,5,
+elements,scandium,5,
+elements,rubidium,5,
+elements,ytterbium,5,
+elements,hafnium,5,
+elements,praseodymium,5,
+elements,dysprosium,5,
+elements,niobium,5,
+elements,oganesson,5,
+elements,lutetium,5,
+elements,protactinium,5,
+#prompt,ocean_animals,Name an animal that lives in the ocean
+ocean_animals,shark,1,
+ocean_animals,whale,1,
+ocean_animals,dolphin,1,
+ocean_animals,octopus,1,
+ocean_animals,jellyfish,1,
+ocean_animals,starfish,2,sea star
+ocean_animals,crab,2,
+ocean_animals,sea turtle,2,turtle
+ocean_animals,seal,2,
+ocean_animals,squid,2,
+ocean_animals,clownfish,2,clown fish
+ocean_animals,lobster,2,
+ocean_animals,stingray,2,
+ocean_animals,orca,2,killer whale
+ocean_animals,seahorse,2,sea horse
+ocean_animals,shrimp,2,
+ocean_animals,eel,3,
+ocean_animals,blue whale,3,
+ocean_animals,walrus,3,
+ocean_animals,penguin,3,
+ocean_animals,tuna,3,
+ocean_animals,manatee,3,
+ocean_animals,sea lion,3,
+ocean_animals,sea otter,3,
+ocean_animals,narwhal,3,
+ocean_animals,swordfish,3,
+ocean_animals,pufferfish,3,puffer fish
+ocean_animals,clam,3,
+ocean_animals,oyster,3,
+ocean_animals,coral,3,
+ocean_animals,sea urchin,3,
+ocean_animals,manta ray,4,
+ocean_animals,anglerfish,4,angler fish
+ocean_animals,barracuda,4,
+ocean_animals,beluga,4,beluga whale
+ocean_animals,sea anemone,4,
+ocean_animals,marlin,4,
+ocean_animals,sea cucumber,4,
+ocean_animals,mantis shrimp,4,
+ocean_animals,cod,4,
+ocean_animals,blobfish,4,
+ocean_animals,plankton,4,
+ocean_animals,cuttlefish,4,
+ocean_animals,krill,4,
+ocean_animals,grouper,4,
+ocean_animals,dugong,4,
+ocean_animals,barnacle,4,
+ocean_animals,halibut,5,
+ocean_animals,mola mola,5,ocean sunfish|sunfish
+ocean_animals,lamprey,5,
+ocean_animals,sea dragon,5,leafy sea dragon
+ocean_animals,nudibranch,5,
+ocean_animals,hagfish,5,
+ocean_animals,oarfish,5,
+ocean_animals,goblin shark,5,
+ocean_animals,sea pig,5,
+ocean_animals,coelacanth,5,
+ocean_animals,giant isopod,5,
+ocean_animals,vaquita,5,
+ocean_animals,frilled shark,5,
+ocean_animals,siphonophore,5,
+ocean_animals,sea butterfly,5,
+#prompt,europe_capitals,Name the capital city of a European country
+europe_capitals,paris,1,
+europe_capitals,london,1,
+europe_capitals,rome,1,
+europe_capitals,berlin,1,
+europe_capitals,madrid,2,
+europe_capitals,amsterdam,2,
+europe_capitals,athens,2,
+europe_capitals,vienna,2,
+europe_capitals,lisbon,2,
+europe_capitals,dublin,2,
+europe_capitals,moscow,2,
+europe_capitals,prague,2,
+europe_capitals,brussels,3,
+europe_capitals,stockholm,3,
+europe_capitals,oslo,3,
+europe_capitals,copenhagen,3,
+europe_capitals,budapest,3,
+europe_capitals,warsaw,3,
+europe_capitals,helsinki,3,
+europe_capitals,kyiv,3,kiev
+europe_capitals,bern,3,
+europe_capitals,bucharest,3,
+europe_capitals,belgrade,3,
+europe_capitals,reykjavik,4,
+europe_capitals,sofia,4,
+europe_capitals,zagreb,4,
+europe_capitals,bratislava,4,
+europe_capitals,minsk,4,
+europe_capitals,ljubljana,4,
+europe_capitals,riga,4,
+europe_capitals,tallinn,4,
+europe_capitals,vilnius,4,
+europe_capitals,luxembourg,4,
+europe_capitals,vatican city,4,vatican
+europe_capitals,sarajevo,5,
+europe_capitals,monaco,5,
+europe_capitals,valletta,5,
+europe_capitals,nicosia,5,
+europe_capitals,tirana,5,
+europe_capitals,san marino,5,
+europe_capitals,skopje,5,
+europe_capitals,andorra la vella,5,
+europe_capitals,vaduz,5,
+europe_capitals,chisinau,5,
+europe_capitals,podgorica,5,
+#prompt,instruments,Name a musical instrument
+instruments,piano,1,
+instruments,guitar,1,
+instruments,drums,1,drum|drum set|drum kit
+instruments,violin,1,
+instruments,flute,1,
+instruments,trumpet,2,
+instruments,saxophone,2,sax
+instruments,cello,2,
+instruments,clarinet,2,
+instruments,bass guitar,2,bass
+instruments,harp,2,
+instruments,ukulele,2,
+instruments,trombone,2,
+instruments,harmonica,2,
+instruments,tuba,2,
+instruments,keyboard,2,
+instruments,banjo,3,
+instruments,xylophone,3,
+instruments,accordion,3,
+instruments,triangle,3,
+instruments,tambourine,3,
+instruments,viola,3,
+instruments,recorder,3,
+instruments,oboe,3,
+instruments,organ,3,
+instruments,french horn,3,
+instruments,bagpipes,3,bagpipe
+instruments,mandolin,3,
+instruments,bassoon,3,
+instruments,synthesizer,3,synth
+instruments,sitar,3,
+instruments,kazoo,4,
+instruments,didgeridoo,4,
+instruments,marimba,4,
+instruments,piccolo,4,
+instruments,bongos,4,bongo
+instruments,cowbell,4,
+instruments,glockenspiel,4,
+instruments,harpsichord,4,
+instruments,steel drum,4,steel pan
+instruments,ocarina,4,
+instruments,gong,4,
+instruments,theremin,4,
+instruments,djembe,4,
+instruments,castanets,4,
+instruments,kalimba,4,
+instruments,tabla,5,
+instruments,lute,5,
+instruments,balalaika,5,
+instruments,sousaphone,5,
+instruments,hurdy gurdy,5,
+instruments,euphonium,5,
+instruments,koto,5,
+instruments,zither,5,
+instruments,oud,5,
+instruments,dulcimer,5,
+instruments,erhu,5,
+instruments,bouzouki,5,
+instruments,shamisen,5,
+instruments,handpan,5,hang drum
+instruments,celesta,5,
+#prompt,olympic_sports,Name a sport in the Summer Olympics
+olympic_sports,swimming,1,
+olympic_sports,track and field,1,athletics
+olympic_sports,gymnastics,1,
+olympic_sports,basketball,1,
+olympic_sports,soccer,2,football
+olympic_sports,tennis,2,
+olympic_sports,volleyball,2,
+olympic_sports,boxing,2,
+olympic_sports,diving,2,
+olympic_sports,cycling,2,
+olympic_sports,wrestling,2,
+olympic_sports,rowing,2,
+olympic_sports,archery,3,
+olympic_sports,fencing,3,
+olympic_sports,table tennis,3,ping pong
+olympic_sports,badminton,3,
+olympic_sports,judo,3,
+olympic_sports,weightlifting,3,
+olympic_sports,taekwondo,3,
+olympic_sports,golf,3,
+olympic_sports,beach volleyball,3,
+olympic_sports,skateboarding,3,
+olympic_sports,water polo,3,
+olympic_sports,surfing,4,
+olympic_sports,rugby,4,rugby sevens
+olympic_sports,triathlon,4,
+olympic_sports,sailing,4,
+olympic_sports,handball,4,
+olympic_sports,equestrian,4,horse riding
+olympic_sports,field hockey,4,hockey
+olympic_sports,sport climbing,4,climbing|rock climbing
+olympic_sports,canoeing,4,kayaking|canoe
+olympic_sports,baseball,4,
+olympic_sports,shooting,4,
+olympic_sports,breaking,4,breakdancing
+olympic_sports,karate,5,
+olympic_sports,bmx,5,
+olympic_sports,artistic swimming,5,synchronized swimming
+olympic_sports,trampoline,5,
+olympic_sports,softball,5,
+olympic_sports,modern pentathlon,5,
+olympic_sports,mountain biking,5,
+olympic_sports,rhythmic gymnastics,5,
+olympic_sports,3x3 basketball,5,
+olympic_sports,marathon swimming,5,
+olympic_sports,race walking,5,
+#prompt,vegetables,Name a vegetable
+vegetables,carrot,1,carrots
+vegetables,broccoli,1,
+vegetables,potato,1,potatoes
+vegetables,lettuce,1,
+vegetables,spinach,1,
+vegetables,onion,2,
+vegetables,tomato,2,
+vegetables,corn,2,
+vegetables,cucumber,2,
+vegetables,peas,2,pea
+vegetables,celery,2,
+vegetables,cabbage,2,
+vegetables,cauliflower,2,
+vegetables,bell pepper,2,pepper
+vegetables,green beans,3,green bean
+vegetables,zucchini,3,courgette
+vegetables,asparagus,3,
+vegetables,sweet potato,3,
+vegetables,kale,3,
+vegetables,eggplant,3,aubergine
+vegetables,mushroom,3,mushrooms
+vegetables,garlic,3,
+vegetables,brussels sprouts,3,brussel sprouts
+vegetables,beet,3,beetroot
+vegetables,radish,3,
+vegetables,pumpkin,3,
+vegetables,squash,3,
+vegetables,artichoke,4,
+vegetables,turnip,4,
+vegetables,leek,4,
+vegetables,parsnip,4,
+vegetables,okra,4,
+vegetables,bok choy,4,
+vegetables,arugula,4,rocket
+vegetables,yam,4,
+vegetables,fennel,4,
+vegetables,edamame,4,
+vegetables,shallot,4,
+vegetables,rutabaga,4,
+vegetables,swiss chard,4,chard
+vegetables,daikon,4,
+vegetables,watercress,5,
+vegetables,cassava,5,
+vegetables,jicama,5,
+vegetables,kohlrabi,5,
+vegetables,endive,5,
+vegetables,taro,5,
+vegetables,celeriac,5,
+vegetables,bamboo shoots,5,
+vegetables,romanesco,5,
+vegetables,lotus root,5,
+vegetables,fiddlehead,5,
+vegetables,burdock,5,
+vegetables,salsify,5,
+#prompt,asia_countries,Name a country in Asia
+asia_countries,china,1,peoples republic of china|prc
+asia_countries,japan,1,
+asia_countries,india,1,
+asia_countries,south korea,1,republic of korea
+asia_countries,thailand,1,
+asia_countries,vietnam,1,viet nam
+asia_countries,north korea,2,dprk
+asia_countries,philippines,2,
+asia_countries,indonesia,2,
+asia_countries,pakistan,2,
+asia_countries,russia,2,russian federation
+asia_countries,israel,2,
+asia_countries,iran,2,
+asia_countries,iraq,2,
+asia_countries,saudi arabia,2,
+asia_countries,afghanistan,2,
+asia_countries,singapore,2,
+asia_countries,malaysia,2,
+asia_countries,taiwan,2,republic of china
+asia_countries,turkey,2,turkiye
+asia_countries,bangladesh,3,
+asia_countries,nepal,3,
+asia_countries,sri lanka,3,ceylon
+asia_countries,mongolia,3,
+asia_countries,cambodia,3,kampuchea
+asia_countries,myanmar,3,burma
+asia_countries,united arab emirates,3,uae|emirates
+asia_countries,qatar,3,
+asia_countries,kuwait,3,
+asia_countries,jordan,3,
+asia_countries,syria,3,
+asia_countries,lebanon,3,
+asia_countries,kazakhstan,3,
+asia_countries,laos,3,lao pdr
+asia_countries,yemen,3,
+asia_countries,uzbekistan,4,
+asia_countries,oman,4,
+asia_countries,bahrain,4,
+asia_countries,georgia,4,
+asia_countries,armenia,4,
+asia_countries,azerbaijan,4,
+asia_countries,kyrgyzstan,4,kyrgyz republic|kirghizia
+asia_countries,tajikistan,4,
+asia_countries,turkmenistan,4,
+asia_countries,bhutan,4,
+asia_countries,maldives,4,
+asia_countries,palestine,4,state of palestine
+asia_countries,cyprus,5,
+asia_countries,timor leste,5,east timor
+asia_countries,brunei,5,brunei darussalam
+#prompt,south_america_countries,Name a country in South America
+south_america_countries,brazil,1,
+south_america_countries,argentina,1,
+south_america_countries,colombia,2,
+south_america_countries,peru,2,
+south_america_countries,chile,2,
+south_america_countries,venezuela,2,
+south_america_countries,ecuador,3,
+south_america_countries,bolivia,3,
+south_america_countries,uruguay,3,
+south_america_countries,paraguay,3,
+south_america_countries,guyana,4,
+south_america_countries,suriname,4,surinam
+south_america_countries,french guiana,5,guyane
+south_america_countries,falkland islands,5,falklands|malvinas|islas malvinas
+#prompt,rivers,Name a river
+rivers,nile,1,nile river|river nile
+rivers,amazon,1,amazon river|river amazon
+rivers,mississippi,1,mississippi river|river mississippi
+rivers,thames,1,thames river|river thames
+rivers,colorado,1,colorado river|river colorado
+rivers,yangtze,2,chang jiang|yangzi|yangtze river|river yangtze
+rivers,ganges,2,ganga|ganges river|river ganges
+rivers,danube,2,donau|danube river|river danube
+rivers,rhine,2,rhein|rhine river|river rhine
+rivers,seine,2,seine river|river seine
+rivers,hudson,2,hudson river|river hudson
+rivers,missouri,2,missouri river|river missouri
+rivers,ohio,2,ohio river|river ohio
+rivers,rio grande,2,rio bravo|rio grande river|river rio grande
+rivers,potomac,2,potomac river|river potomac
+rivers,euphrates,2,euphrates river|river euphrates
+rivers,tigris,2,tigris river|river tigris
+rivers,jordan,2,jordan river|river jordan
+rivers,volga,2,volga river|river volga
+rivers,mekong,2,mekong river|river mekong
+rivers,congo,2,zaire|congo river|river congo
+rivers,yellow river,3,huang he|huang ho|yellow
+rivers,indus,3,indus river|river indus
+rivers,zambezi,3,zambezi river|river zambezi
+rivers,niger,3,niger river|river niger
+rivers,columbia,3,columbia river|river columbia
+rivers,tennessee,3,tennessee river|river tennessee
+rivers,snake,3,snake river|river snake
+rivers,st lawrence,3,saint lawrence|st lawrence river|river st lawrence
+rivers,delaware,3,delaware river|river delaware
+rivers,charles,3,charles river|river charles
+rivers,chicago,3,chicago river|river chicago
+rivers,niagara,3,niagara river|river niagara
+rivers,loire,3,loire river|river loire
+rivers,tiber,3,tevere|tiber river|river tiber
+rivers,elbe,3,elbe river|river elbe
+rivers,po,3,po river|river po
+rivers,yukon,3,yukon river|river yukon
+rivers,rhone,3,rhone river|river rhone
+rivers,brahmaputra,3,brahmaputra river|river brahmaputra
+rivers,orinoco,3,orinoco river|river orinoco
+rivers,murray,3,murray river|river murray
+rivers,sacramento,3,sacramento river|river sacramento
+rivers,savannah,3,savannah river|river savannah
+rivers,arkansas,3,arkansas river|river arkansas
+rivers,ob,4,ob river|river ob
+rivers,yenisei,4,yenisei river|river yenisei
+rivers,lena,4,lena river|river lena
+rivers,amur,4,amur river|river amur
+rivers,darling,4,darling river|river darling
+rivers,parana,4,parana river|river parana
+rivers,sao francisco,4,sao francisco river|river sao francisco
+rivers,limpopo,4,limpopo river|river limpopo
+rivers,orange,4,orange river|river orange
+rivers,dnieper,4,dnipro|dnepr|dnieper river|river dnieper
+rivers,don,4,don river|river don
+rivers,vistula,4,wisla|vistula river|river vistula
+rivers,oder,4,odra|oder river|river oder
+rivers,ebro,4,ebro river|river ebro
+rivers,tagus,4,tajo|tejo|tagus river|river tagus
+rivers,douro,4,duero|douro river|river douro
+rivers,shannon,4,shannon river|river shannon
+rivers,severn,4,severn river|river severn
+rivers,mersey,4,mersey river|river mersey
+rivers,tyne,4,tyne river|river tyne
+rivers,avon,4,avon river|river avon
+rivers,liffey,4,liffey river|river liffey
+rivers,clyde,4,clyde river|river clyde
+rivers,fraser,4,fraser river|river fraser
+rivers,mackenzie,4,mackenzie river|river mackenzie
+rivers,red river,4,red
+rivers,platte,4,platte river|river platte
+rivers,illinois,4,illinois river|river illinois
+rivers,allegheny,4,allegheny river|river allegheny
+rivers,yellowstone,4,yellowstone river|river yellowstone
+rivers,suwannee,4,suwannee river|river suwannee
+rivers,connecticut,4,connecticut river|river connecticut
+rivers,james,4,james river|river james
+rivers,shenandoah,4,shenandoah river|river shenandoah
+rivers,irrawaddy,4,ayeyarwady|irrawaddy river|river irrawaddy
+rivers,salween,4,salween river|river salween
+rivers,ural,4,ural river|river ural
+rivers,dniester,4,dniester river|river dniester
+rivers,neva,4,neva river|river neva
+rivers,arno,4,arno river|river arno
+rivers,blue nile,4,blue nile river|river blue nile
+rivers,white nile,4,white nile river|river white nile
+rivers,okavango,4,okavango river|river okavango
+rivers,senegal,4,senegal river|river senegal
+rivers,volta,4,volta river|river volta
+rivers,madeira,4,madeira river|river madeira
+rivers,rio negro,4,negro|rio negro river|river rio negro
+rivers,xingu,4,xingu river|river xingu
+rivers,pearl river,4,zhujiang|pearl
+rivers,yamuna,4,jumna|yamuna river|river yamuna
+rivers,amu darya,5,oxus|amu darya river|river amu darya
+rivers,syr darya,5,syr darya river|river syr darya
+rivers,kolyma,5,kolyma river|river kolyma
+rivers,indigirka,5,indigirka river|river indigirka
+rivers,irtysh,5,irtysh river|river irtysh
+rivers,churchill,5,churchill river|river churchill
+rivers,nelson,5,nelson river|river nelson
+rivers,athabasca,5,athabasca river|river athabasca
+rivers,juba,5,juba river|river juba
+rivers,shebelle,5,shebelle river|river shebelle
+rivers,kagera,5,kagera river|river kagera
+rivers,rufiji,5,rufiji river|river rufiji
+rivers,ubangi,5,ubangi river|river ubangi
+rivers,kasai,5,kasai river|river kasai
+rivers,tisza,5,tisza river|river tisza
+rivers,sava,5,sava river|river sava
+rivers,drava,5,drava river|river drava
+rivers,moselle,5,mosel|moselle river|river moselle
+rivers,main,5,main river|river main
+rivers,weser,5,weser river|river weser
+rivers,ems,5,ems river|river ems
+rivers,garonne,5,garonne river|river garonne
+rivers,dordogne,5,dordogne river|river dordogne
+rivers,somme,5,somme river|river somme
+rivers,marne,5,marne river|river marne
+rivers,guadalquivir,5,guadalquivir river|river guadalquivir
+rivers,meuse,5,maas|meuse river|river meuse
+rivers,scheldt,5,schelde|escaut|scheldt river|river scheldt
+rivers,inn,5,inn river|river inn
+rivers,trent,5,trent river|river trent
+rivers,wye,5,wye river|river wye
+rivers,tay,5,tay river|river tay
+rivers,araguaia,5,araguaia river|river araguaia
+rivers,tocantins,5,tocantins river|river tocantins
+rivers,purus,5,purus river|river purus
+rivers,japura,5,japura river|river japura
+rivers,putumayo,5,putumayo river|river putumayo
+rivers,essequibo,5,essequibo river|river essequibo
+rivers,magdalena,5,magdalena river|river magdalena
+rivers,paraguay,5,paraguay river|river paraguay
+rivers,uruguay,5,uruguay river|river uruguay
+rivers,sutlej,5,sutlej river|river sutlej
+rivers,chenab,5,chenab river|river chenab
+rivers,jhelum,5,jhelum river|river jhelum
+rivers,ravi,5,ravi river|river ravi
+rivers,godavari,5,godavari river|river godavari
+rivers,krishna,5,krishna river|river krishna
+rivers,narmada,5,narmada river|river narmada
+rivers,kaveri,5,cauvery|kaveri river|river kaveri
+rivers,hooghly,5,hooghly river|river hooghly
+rivers,han,5,han river|river han
+rivers,waikato,5,waikato river|river waikato
+rivers,san joaquin,5,san joaquin river|river san joaquin
+rivers,willamette,5,willamette river|river willamette
+rivers,gila,5,gila river|river gila
+rivers,pecos,5,pecos river|river pecos
+rivers,brazos,5,brazos river|river brazos
+rivers,wabash,5,wabash river|river wabash
+rivers,cumberland,5,cumberland river|river cumberland
+rivers,monongahela,5,monongahela river|river monongahela
+rivers,st johns,5,saint johns|st johns river|river st johns
+rivers,los angeles,5,los angeles river|river los angeles
+#prompt,islands,Name an island
+islands,hawaii,1,big island|hawaii island
+islands,greenland,1,greenland island
+islands,madagascar,1,madagascar island
+islands,iceland,1,iceland island
+islands,cuba,1,cuba island
+islands,jamaica,1,jamaica island
+islands,ireland,1,ireland island
+islands,manhattan,1,manhattan island
+islands,great britain,2,britain|great britain island
+islands,puerto rico,2,puerto rico island
+islands,tasmania,2,tasmania island
+islands,borneo,2,borneo island
+islands,bali,2,bali island
+islands,sicily,2,sicily island
+islands,long island,2,
+islands,maui,2,maui island
+islands,oahu,2,oahu island
+islands,crete,2,crete island
+islands,cyprus,2,cyprus island
+islands,malta,2,malta island
+islands,sri lanka,2,ceylon|sri lanka island
+islands,taiwan,2,formosa|taiwan island
+islands,new guinea,2,new guinea island
+islands,java,2,java island
+islands,sumatra,2,sumatra island
+islands,easter island,2,rapa nui
+islands,tahiti,2,tahiti island
+islands,bora bora,2,bora bora island
+islands,aruba,2,aruba island
+islands,barbados,2,barbados island
+islands,bermuda,2,bermuda island
+islands,staten island,2,
+islands,alcatraz,2,alcatraz island
+islands,newfoundland,2,newfoundland island
+islands,vancouver island,2,
+islands,key west,2,key west island
+islands,nantucket,2,nantucket island
+islands,ibiza,2,ibiza island
+islands,santorini,2,thira|thera|santorini island
+islands,sardinia,2,sardinia island
+islands,corsica,2,corsica island
+islands,singapore,2,singapore island
+islands,hispaniola,2,hispaniola island
+islands,trinidad,2,trinidad island
+islands,honshu,3,honshu island
+islands,hokkaido,3,hokkaido island
+islands,okinawa,3,okinawa island
+islands,luzon,3,luzon island
+islands,mindanao,3,mindanao island
+islands,baffin island,3,
+islands,north island,3,
+islands,south island,3,
+islands,kauai,3,kauai island
+islands,marthas vineyard,3,marthas vineyard island
+islands,prince edward island,3,
+islands,isle of man,3,
+islands,isle of wight,3,
+islands,isle of skye,3,skye
+islands,jersey,3,jersey island
+islands,guernsey,3,guernsey island
+islands,zanzibar,3,unguja|zanzibar island
+islands,mauritius,3,mauritius island
+islands,phuket,3,phuket island
+islands,capri,3,capri island
+islands,mallorca,3,majorca|mallorca island
+islands,tenerife,3,tenerife island
+islands,mykonos,3,mykonos island
+islands,rhodes,3,rhodes island
+islands,corfu,3,kerkyra|corfu island
+islands,elba,3,elba island
+islands,guam,3,guam island
+islands,iwo jima,3,iwo to|iwo jima island
+islands,ellis island,3,
+islands,liberty island,3,
+islands,mackinac island,3,
+islands,kodiak,3,kodiak island
+islands,catalina,3,santa catalina|catalina island
+islands,coney island,3,
+islands,hilton head,3,hilton head island
+islands,curacao,3,curacao island
+islands,st lucia,3,saint lucia|st lucia island
+islands,grenada,3,grenada island
+islands,antigua,3,antigua island
+islands,martinique,3,martinique island
+islands,guadeloupe,3,guadeloupe island
+islands,dominica,3,dominica island
+islands,tobago,3,tobago island
+islands,st kitts,3,saint kitts|saint christopher|st kitts island
+islands,sulawesi,3,celebes|sulawesi island
+islands,lombok,3,lombok island
+islands,komodo,3,komodo island
+islands,cape breton,3,cape breton island
+islands,madeira,3,madeira island
+islands,gran canaria,3,gran canaria island
+islands,lanzarote,3,lanzarote island
+islands,south padre island,3,
+islands,molokai,3,molokai island
+islands,lanai,3,lanai island
+islands,hong kong island,3,
+islands,tierra del fuego,3,isla grande de tierra del fuego|tierra del fuego island
+islands,kyushu,4,kyushu island
+islands,shikoku,4,shikoku island
+islands,palawan,4,palawan island
+islands,cebu,4,cebu island
+islands,ellesmere island,4,
+islands,victoria island,4,
+islands,socotra,4,socotra island
+islands,reunion,4,reunion island
+islands,saint helena,4,st helena|saint helena island
+islands,bonaire,4,bonaire island
+islands,nevis,4,nevis island
+islands,menorca,4,minorca|menorca island
+islands,ischia,4,ischia island
+islands,lesbos,4,lesvos|lesbos island
+islands,gotland,4,gotland island
+islands,bornholm,4,bornholm island
+islands,zealand,4,sjaelland|zealand island
+islands,anglesey,4,anglesey island
+islands,isle of mull,4,mull
+islands,islay,4,islay island
+islands,lewis and harris,4,lewis|harris|isle of lewis|isle of harris|lewis and harris island
+islands,stewart island,4,
+islands,guadalcanal,4,guadalcanal island
+islands,bougainville,4,bougainville island
+islands,saipan,4,saipan island
+islands,wrangel island,4,
+islands,south georgia,4,south georgia island
+islands,timor,4,timor island
+islands,flores,4,flores island
+islands,devon island,4,
+islands,banks island,4,
+islands,kangaroo island,4,
+islands,fraser island,4,kgari
+islands,ascension island,4,ascension
+islands,spitsbergen,4,svalbard|spitsbergen island
+islands,sakhalin,4,sakhalin island
+islands,hainan,4,hainan island
+islands,jeju,4,jeju island
+islands,christmas island,4,
+islands,chiloe,4,chiloe island
+islands,rugen,4,rugen island
+islands,sylt,4,sylt island
+islands,texel,4,texel island
+islands,naxos,4,naxos island
+islands,kos,4,kos island
+islands,chios,4,chios island
+islands,samos,4,samos island
+islands,sark,4,sark island
+islands,lindisfarne,4,holy island|lindisfarne island
+islands,iona,4,iona island
+islands,isle royale,4,
+islands,manitoulin island,4,
+islands,anticosti island,4,
+islands,viti levu,4,viti levu island
+islands,rarotonga,4,rarotonga island
+islands,tristan da cunha,5,tristan da cunha island
+islands,melville island,5,
+islands,montreal island,5,island of montreal
+islands,bioko,5,fernando po|bioko island
+islands,sao tome,5,sao tome island
+islands,principe,5,principe island
+islands,pemba,5,pemba island
+islands,vanua levu,5,vanua levu island
+islands,upolu,5,upolu island
+islands,savaii,5,savaii island
+islands,tongatapu,5,tongatapu island
+islands,nuku hiva,5,nuku hiva island
+islands,heard island,5,
+islands,bouvet island,5,
+islands,jan mayen,5,jan mayen island
+islands,sable island,5,
+islands,saaremaa,5,saaremaa island
+islands,hiiumaa,5,hiiumaa island
+islands,krk,5,krk island
+islands,hvar,5,hvar island
+islands,lundy,5,lundy island
+islands,unalaska,5,unalaska island
+islands,attu,5,attu island
+islands,kiska,5,kiska island
+islands,nunivak,5,nunivak island
+islands,south andros,5,andros|south andros island
+islands,grand bahama,5,grand bahama island
+islands,new providence,5,new providence island
+islands,eleuthera,5,eleuthera island
+islands,abaco,5,abaco island
+islands,lord howe island,5,
+islands,norfolk island,5,
+islands,macquarie island,5,
+islands,campbell island,5,
+islands,kerguelen,5,kerguelen island
+islands,mahe,5,mahe island
+islands,tanna,5,tanna island
+islands,espiritu santo,5,espiritu santo island
+islands,efate,5,efate island
+#prompt,birds,Name a bird
+birds,eagle,1,
+birds,robin,1,
+birds,crow,1,
+birds,penguin,1,
+birds,owl,1,
+birds,parrot,1,
+birds,pigeon,1,
+birds,hawk,1,
+birds,bald eagle,2,american eagle
+birds,blue jay,2,
+birds,cardinal,2,northern cardinal|redbird
+birds,flamingo,2,
+birds,ostrich,2,
+birds,peacock,2,peafowl|peahen
+birds,hummingbird,2,
+birds,duck,2,
+birds,goose,2,
+birds,swan,2,
+birds,seagull,2,gull
+birds,sparrow,2,
+birds,chicken,2,hen|rooster
+birds,turkey,2,
+birds,woodpecker,2,
+birds,falcon,2,
+birds,vulture,2,
+birds,pelican,2,
+birds,toucan,2,
+birds,emu,2,
+birds,canary,2,
+birds,dove,2,
+birds,raven,2,
+birds,parakeet,2,budgie|budgerigar
+birds,blackbird,2,
+birds,kiwi,2,
+birds,stork,2,
+birds,crane,2,
+birds,heron,2,
+birds,cockatoo,2,
+birds,magpie,3,
+birds,finch,3,
+birds,starling,3,
+birds,swallow,3,
+birds,kingfisher,3,
+birds,condor,3,
+birds,albatross,3,
+birds,puffin,3,
+birds,macaw,3,
+birds,roadrunner,3,
+birds,mockingbird,3,
+birds,oriole,3,
+birds,osprey,3,
+birds,peregrine falcon,3,peregrine
+birds,golden eagle,3,
+birds,snowy owl,3,
+birds,barn owl,3,
+birds,great horned owl,3,
+birds,quail,3,
+birds,pheasant,3,
+birds,ibis,3,
+birds,egret,3,
+birds,cassowary,3,
+birds,kookaburra,3,
+birds,wren,3,
+birds,chickadee,3,
+birds,nightingale,3,
+birds,lark,3,
+birds,loon,3,common loon|great northern diver
+birds,mallard,3,
+birds,sandpiper,3,
+birds,cuckoo,3,
+birds,warbler,3,
+birds,grouse,3,
+birds,partridge,3,
+birds,dodo,3,
+birds,mynah,3,myna
+birds,cormorant,3,
+birds,hornbill,3,
+birds,lovebird,3,
+birds,cockatiel,3,
+birds,bluebird,3,
+birds,goldfinch,3,
+birds,jay,3,
+birds,grackle,3,
+birds,swift,3,
+birds,tern,3,
+birds,blue footed booby,3,booby
+birds,frigatebird,3,frigate bird|man o war bird
+birds,rhea,3,
+birds,turkey vulture,3,buzzard
+birds,whooping crane,3,
+birds,sandhill crane,3,
+birds,mourning dove,3,
+birds,house sparrow,3,
+birds,bald ibis,3,
+birds,kakapo,4,
+birds,kea,4,
+birds,shoebill,4,shoebill stork|whale headed stork
+birds,secretary bird,4,
+birds,hoatzin,4,
+birds,lyrebird,4,
+birds,bowerbird,4,
+birds,bird of paradise,4,
+birds,quetzal,4,resplendent quetzal
+birds,tanager,4,
+birds,nuthatch,4,
+birds,cedar waxwing,4,
+birds,waxwing,4,
+birds,killdeer,4,
+birds,plover,4,
+birds,avocet,4,
+birds,oystercatcher,4,
+birds,spoonbill,4,roseate spoonbill
+birds,anhinga,4,snakebird
+birds,gannet,4,
+birds,petrel,4,
+birds,shearwater,4,
+birds,harpy eagle,4,
+birds,kestrel,4,
+birds,merlin,4,
+birds,harrier,4,
+birds,kite,4,
+birds,goshawk,4,
+birds,sparrowhawk,4,
+birds,nighthawk,4,
+birds,whippoorwill,4,whip poor will
+birds,nightjar,4,
+birds,grebe,4,
+birds,coot,4,
+birds,moorhen,4,
+birds,rail,4,
+birds,bittern,4,
+birds,curlew,4,
+birds,godwit,4,
+birds,sanderling,4,
+birds,dunlin,4,
+birds,ptarmigan,4,
+birds,capercaillie,4,
+birds,bustard,4,
+birds,junco,4,
+birds,towhee,4,
+birds,bobolink,4,
+birds,meadowlark,4,
+birds,cowbird,4,
+birds,phoebe,4,
+birds,flycatcher,4,
+birds,vireo,4,
+birds,thrush,4,
+birds,wagtail,4,
+birds,pipit,4,
+birds,bunting,4,
+birds,weaver,4,
+birds,sunbird,4,
+birds,hoopoe,4,
+birds,bee eater,4,
+birds,roller,4,
+birds,trogon,4,
+birds,jacana,4,
+birds,takahe,4,
+birds,weka,4,
+birds,tui,4,
+birds,kingbird,4,
+birds,tit,4,
+birds,treecreeper,4,
+birds,dipper,4,
+birds,wryneck,4,
+birds,shrike,4,
+birds,marabou stork,4,marabou
+birds,jabiru,4,
+birds,skua,4,jaeger
+birds,guillemot,4,murre
+birds,kittiwake,4,
+birds,fulmar,4,
+birds,great auk,4,
+birds,passenger pigeon,4,
+birds,moa,4,
+birds,elephant bird,4,
+birds,california condor,4,
+birds,andean condor,4,
+birds,philippine eagle,4,
+birds,bearded vulture,4,lammergeier
+birds,steller sea eagle,4,stellers sea eagle
+birds,crossbill,4,
+birds,grosbeak,4,
+birds,red winged blackbird,4,
+birds,scarlet macaw,4,
+birds,african grey parrot,4,african grey|grey parrot
+birds,lorikeet,4,
+birds,rosella,4,
+birds,galah,4,
+birds,kagu,5,
+birds,potoo,5,
+birds,oilbird,5,
+birds,sunbittern,5,
+birds,sungrebe,5,
+birds,tinamou,5,
+birds,seriema,5,
+birds,turaco,5,
+birds,mousebird,5,
+birds,cuckoo roller,5,
+birds,mesite,5,
+birds,hamerkop,5,hammerkop|hammerhead stork
+birds,limpkin,5,
+birds,trumpeter,5,
+birds,screamer,5,
+birds,kiskadee,5,
+birds,manakin,5,
+birds,cotinga,5,
+birds,bellbird,5,
+birds,umbrellabird,5,
+birds,antpitta,5,
+birds,ovenbird,5,
+birds,frogmouth,5,
+birds,owlet nightjar,5,
+birds,fairywren,5,fairy wren
+birds,pardalote,5,
+birds,honeyeater,5,
+birds,rifleman,5,
+birds,saddleback,5,tieke
+birds,kokako,5,
+birds,stitchbird,5,hihi
+birds,huia,5,
+birds,carolina parakeet,5,
+birds,ivory billed woodpecker,5,
+birds,wallcreeper,5,
+birds,tropicbird,5,
+birds,dovekie,5,little auk
+birds,auklet,5,
+birds,murrelet,5,
+birds,prion,5,
+birds,storm petrel,5,
+birds,phalarope,5,
+birds,pratincole,5,
+birds,courser,5,
+birds,sheathbill,5,
+birds,crab plover,5,
+birds,ibisbill,5,
+birds,drongo,5,
+birds,babbler,5,
+birds,bulbul,5,
+birds,white eye,5,
+birds,silvereye,5,
+birds,wattlebird,5,
+birds,pitta,5,
+birds,broadbill,5,
+birds,tody,5,
+birds,motmot,5,
+birds,jacamar,5,
+birds,puffbird,5,
+birds,barbet,5,
+birds,honeyguide,5,
+birds,woodcreeper,5,
+birds,spinetail,5,
+birds,tapaculo,5,
+birds,gnatcatcher,5,
+birds,kinglet,5,
+birds,dickcissel,5,
+birds,hawfinch,5,
+birds,linnet,5,
+birds,siskin,5,
+birds,twite,5,
+birds,brambling,5,
+birds,chough,5,
+birds,nutcracker,5,
+birds,jackdaw,5,
+birds,rook,5,
+#prompt,dinosaurs,Name a dinosaur
+dinosaurs,tyrannosaurus rex,1,t rex|trex|tyrannosaurus|tyrannosaur
+dinosaurs,triceratops,1,
+dinosaurs,velociraptor,1,raptor
+dinosaurs,stegosaurus,1,
+dinosaurs,brachiosaurus,1,
+dinosaurs,brontosaurus,1,
+dinosaurs,spinosaurus,2,
+dinosaurs,ankylosaurus,2,
+dinosaurs,diplodocus,2,
+dinosaurs,allosaurus,2,
+dinosaurs,parasaurolophus,2,
+dinosaurs,pachycephalosaurus,2,
+dinosaurs,iguanodon,2,
+dinosaurs,apatosaurus,2,
+dinosaurs,dilophosaurus,2,
+dinosaurs,gallimimus,2,
+dinosaurs,giganotosaurus,2,
+dinosaurs,carnotaurus,2,
+dinosaurs,compsognathus,2,
+dinosaurs,argentinosaurus,3,
+dinosaurs,deinonychus,3,
+dinosaurs,utahraptor,3,
+dinosaurs,oviraptor,3,
+dinosaurs,protoceratops,3,
+dinosaurs,styracosaurus,3,
+dinosaurs,therizinosaurus,3,
+dinosaurs,baryonyx,3,
+dinosaurs,megalosaurus,3,
+dinosaurs,maiasaura,3,
+dinosaurs,hadrosaurus,3,
+dinosaurs,edmontosaurus,3,
+dinosaurs,corythosaurus,3,
+dinosaurs,microraptor,3,
+dinosaurs,troodon,3,
+dinosaurs,coelophysis,3,
+dinosaurs,plateosaurus,3,
+dinosaurs,suchomimus,3,
+dinosaurs,carcharodontosaurus,3,
+dinosaurs,ceratosaurus,3,
+dinosaurs,pentaceratops,3,
+dinosaurs,kentrosaurus,3,
+dinosaurs,mamenchisaurus,3,
+dinosaurs,camarasaurus,3,
+dinosaurs,archaeopteryx,3,
+dinosaurs,albertosaurus,3,
+dinosaurs,dreadnoughtus,4,
+dinosaurs,sinosauropteryx,4,
+dinosaurs,daspletosaurus,4,
+dinosaurs,gorgosaurus,4,
+dinosaurs,tarbosaurus,4,
+dinosaurs,yutyrannus,4,
+dinosaurs,saurolophus,4,
+dinosaurs,lambeosaurus,4,
+dinosaurs,chasmosaurus,4,
+dinosaurs,centrosaurus,4,
+dinosaurs,nodosaurus,4,
+dinosaurs,euoplocephalus,4,
+dinosaurs,heterodontosaurus,4,
+dinosaurs,hypsilophodon,4,
+dinosaurs,ouranosaurus,4,
+dinosaurs,amargasaurus,4,
+dinosaurs,nigersaurus,4,
+dinosaurs,supersaurus,4,
+dinosaurs,titanosaurus,4,
+dinosaurs,saltasaurus,4,
+dinosaurs,patagotitan,4,
+dinosaurs,alamosaurus,4,
+dinosaurs,majungasaurus,4,
+dinosaurs,acrocanthosaurus,4,
+dinosaurs,cryolophosaurus,4,
+dinosaurs,eoraptor,4,
+dinosaurs,herrerasaurus,4,
+dinosaurs,deinocheirus,4,
+dinosaurs,ornithomimus,4,
+dinosaurs,struthiomimus,4,
+dinosaurs,dromaeosaurus,4,
+dinosaurs,kosmoceratops,4,
+dinosaurs,torosaurus,4,
+dinosaurs,psittacosaurus,4,
+dinosaurs,stygimoloch,4,
+dinosaurs,pachyrhinosaurus,4,
+dinosaurs,tenontosaurus,4,
+dinosaurs,minmi,5,
+dinosaurs,muttaburrasaurus,5,
+dinosaurs,australovenator,5,
+dinosaurs,sauropelta,5,
+dinosaurs,edmontonia,5,
+dinosaurs,gastonia,5,
+dinosaurs,polacanthus,5,
+dinosaurs,scelidosaurus,5,
+dinosaurs,scutellosaurus,5,
+dinosaurs,lesothosaurus,5,
+dinosaurs,leaellynasaura,5,
+dinosaurs,dryosaurus,5,
+dinosaurs,camptosaurus,5,
+dinosaurs,shantungosaurus,5,
+dinosaurs,tsintaosaurus,5,
+dinosaurs,sauroposeidon,5,
+dinosaurs,seismosaurus,5,
+dinosaurs,rajasaurus,5,
+dinosaurs,abelisaurus,5,
+dinosaurs,irritator,5,
+dinosaurs,monolophosaurus,5,
+dinosaurs,guanlong,5,
+dinosaurs,dilong,5,
+dinosaurs,staurikosaurus,5,
+dinosaurs,nyasasaurus,5,
+dinosaurs,mussaurus,5,
+dinosaurs,massospondylus,5,
+dinosaurs,anchisaurus,5,
+dinosaurs,citipati,5,
+dinosaurs,caudipteryx,5,
+dinosaurs,sinornithosaurus,5,
+dinosaurs,austroraptor,5,
+dinosaurs,pyroraptor,5,
+dinosaurs,unenlagia,5,
+dinosaurs,halszkaraptor,5,
+dinosaurs,zuniceratops,5,
+dinosaurs,einiosaurus,5,
+dinosaurs,nasutoceratops,5,
+dinosaurs,leptoceratops,5,
+dinosaurs,dracorex,5,
+dinosaurs,olorotitan,5,
+dinosaurs,charonosaurus,5,
+dinosaurs,megaraptor,5,
+dinosaurs,concavenator,5,
+dinosaurs,mapusaurus,5,
+dinosaurs,tyrannotitan,5,
+dinosaurs,gigantoraptor,5,
+dinosaurs,beipiaosaurus,5,
+dinosaurs,segnosaurus,5,
+dinosaurs,alxasaurus,5,
+dinosaurs,nothronychus,5,
+dinosaurs,falcarius,5,
+dinosaurs,borealopelta,5,
+dinosaurs,zuul,5,
+dinosaurs,qianzhousaurus,5,pinocchio rex
+dinosaurs,nanuqsaurus,5,
+dinosaurs,thescelosaurus,5,
+dinosaurs,oryctodromeus,5,
+dinosaurs,mononykus,5,
+dinosaurs,avimimus,5,
+dinosaurs,protarchaeopteryx,5,
+dinosaurs,anchiornis,5,
+dinosaurs,yi qi,5,yi
+dinosaurs,spinophorosaurus,5,
+dinosaurs,brachytrachelopan,5,
+dinosaurs,europasaurus,5,
+dinosaurs,giraffatitan,5,
+dinosaurs,turiasaurus,5,
+dinosaurs,lusotitan,5,
+dinosaurs,torvosaurus,5,
+dinosaurs,eustreptospondylus,5,
+dinosaurs,neovenator,5,
+#prompt,cat_breeds,Name a cat breed
+cat_breeds,persian,1,
+cat_breeds,siamese,1,
+cat_breeds,maine coon,1,
+cat_breeds,sphynx,1,sphinx|sphynx cat|hairless cat
+cat_breeds,bengal,1,
+cat_breeds,ragdoll,2,
+cat_breeds,british shorthair,2,
+cat_breeds,scottish fold,2,
+cat_breeds,russian blue,2,
+cat_breeds,abyssinian,2,
+cat_breeds,himalayan,2,
+cat_breeds,american shorthair,2,
+cat_breeds,exotic shorthair,2,exotic
+cat_breeds,birman,2,
+cat_breeds,savannah,2,
+cat_breeds,burmese,2,
+cat_breeds,norwegian forest cat,3,norwegian forest|wegie
+cat_breeds,siberian,3,
+cat_breeds,devon rex,3,
+cat_breeds,cornish rex,3,
+cat_breeds,manx,3,
+cat_breeds,munchkin,3,
+cat_breeds,turkish angora,3,angora
+cat_breeds,turkish van,3,
+cat_breeds,oriental shorthair,3,oriental
+cat_breeds,egyptian mau,3,
+cat_breeds,tonkinese,3,
+cat_breeds,bombay,3,
+cat_breeds,ragamuffin,3,
+cat_breeds,balinese,3,
+cat_breeds,chartreux,3,
+cat_breeds,japanese bobtail,3,
+cat_breeds,american curl,3,
+cat_breeds,ocicat,3,
+cat_breeds,selkirk rex,3,
+cat_breeds,somali,3,
+cat_breeds,toyger,3,
+cat_breeds,korat,4,
+cat_breeds,havana brown,4,havana
+cat_breeds,singapura,4,
+cat_breeds,laperm,4,
+cat_breeds,american bobtail,4,
+cat_breeds,pixiebob,4,pixie bob
+cat_breeds,snowshoe,4,
+cat_breeds,burmilla,4,
+cat_breeds,nebelung,4,
+cat_breeds,peterbald,4,
+cat_breeds,lykoi,4,werewolf cat
+cat_breeds,chausie,4,
+cat_breeds,cymric,4,
+cat_breeds,american wirehair,4,
+cat_breeds,oriental longhair,4,
+cat_breeds,british longhair,4,
+cat_breeds,javanese,4,
+cat_breeds,colorpoint shorthair,4,
+cat_breeds,kurilian bobtail,4,
+cat_breeds,donskoy,4,don sphynx
+cat_breeds,bambino,4,
+cat_breeds,minuet,4,napoleon
+cat_breeds,khao manee,4,
+cat_breeds,european shorthair,4,european burmese
+cat_breeds,sokoke,5,
+cat_breeds,highlander,5,
+cat_breeds,cheetoh,5,
+cat_breeds,serengeti,5,
+cat_breeds,australian mist,5,
+cat_breeds,ukrainian levkoy,5,
+cat_breeds,ojos azules,5,
+cat_breeds,york chocolate,5,
+cat_breeds,aegean,5,
+cat_breeds,arabian mau,5,
+cat_breeds,brazilian shorthair,5,
+cat_breeds,california spangled,5,
+cat_breeds,chantilly tiffany,5,chantilly|tiffany
+cat_breeds,thai,5,
+cat_breeds,dragon li,5,li hua|chinese li hua
+cat_breeds,mekong bobtail,5,
+cat_breeds,german rex,5,
+cat_breeds,ural rex,5,
+cat_breeds,skookum,5,
+cat_breeds,dwelf,5,
+cat_breeds,kinkalow,5,
+cat_breeds,scottish straight,5,
+cat_breeds,asian,5,
+cat_breeds,tennessee rex,5,
+#prompt,insects,Name an insect
+insects,ant,1,
+insects,bee,1,
+insects,butterfly,1,
+insects,fly,1,
+insects,mosquito,1,
+insects,beetle,1,
+insects,grasshopper,1,
+insects,ladybug,1,ladybird|lady beetle|ladybird beetle
+insects,wasp,2,
+insects,moth,2,
+insects,dragonfly,2,
+insects,cricket,2,
+insects,cockroach,2,roach
+insects,termite,2,
+insects,firefly,2,lightning bug
+insects,praying mantis,2,mantis
+insects,honeybee,2,honey bee
+insects,bumblebee,2,bumble bee
+insects,flea,2,
+insects,louse,2,lice|head louse
+insects,housefly,2,house fly
+insects,hornet,2,
+insects,cicada,2,
+insects,caterpillar,2,
+insects,stick insect,2,walking stick|stick bug|phasmid
+insects,gnat,2,
+insects,monarch butterfly,2,monarch
+insects,aphid,3,
+insects,weevil,3,
+insects,earwig,3,
+insects,silverfish,3,
+insects,yellowjacket,3,yellow jacket
+insects,damselfly,3,
+insects,locust,3,
+insects,katydid,3,
+insects,stink bug,3,shield bug
+insects,bed bug,3,
+insects,fruit fly,3,drosophila
+insects,horsefly,3,horse fly
+insects,dung beetle,3,
+insects,stag beetle,3,
+insects,june bug,3,june beetle|may beetle
+insects,mayfly,3,
+insects,fire ant,3,
+insects,carpenter ant,3,
+insects,luna moth,3,
+insects,crane fly,3,daddy longlegs
+insects,hercules beetle,3,
+insects,japanese beetle,3,
+insects,mealworm,3,
+insects,scarab,3,scarab beetle
+insects,maggot,3,
+insects,tsetse fly,3,tsetse
+insects,bullet ant,3,
+insects,leafcutter ant,3,leaf cutter ant
+insects,army ant,3,
+insects,swallowtail,3,
+insects,mud dauber,3,
+insects,carpenter bee,3,
+insects,inchworm,3,looper|measuring worm
+insects,silkworm,3,silk moth
+insects,killer bee,3,africanized bee
+insects,water bug,3,
+insects,mole cricket,3,
+insects,lanternfly,3,spotted lanternfly
+insects,lacewing,4,
+insects,water strider,4,pond skater
+insects,leafhopper,4,
+insects,boll weevil,4,
+insects,painted lady,4,
+insects,atlas moth,4,
+insects,botfly,4,bot fly
+insects,deer fly,4,
+insects,sawfly,4,
+insects,dobsonfly,4,hellgrammite
+insects,rhinoceros beetle,4,
+insects,goliath beetle,4,
+insects,emerald ash borer,4,
+insects,tarantula hawk,4,
+insects,assassin bug,4,
+insects,giant water bug,4,
+insects,backswimmer,4,
+insects,whirligig beetle,4,
+insects,thrips,4,
+insects,scale insect,4,
+insects,mealybug,4,
+insects,whitefly,4,
+insects,spittlebug,4,froghopper
+insects,treehopper,4,
+insects,caddisfly,4,
+insects,stonefly,4,
+insects,scorpionfly,4,
+insects,antlion,4,doodlebug
+insects,click beetle,4,
+insects,tiger beetle,4,
+insects,ground beetle,4,
+insects,blister beetle,4,
+insects,bombardier beetle,4,
+insects,longhorn beetle,4,
+insects,carpet beetle,4,
+insects,kissing bug,4,
+insects,cochineal,4,
+insects,hawk moth,4,sphinx moth|hummingbird moth|hawkmoth
+insects,cecropia moth,4,
+insects,blue morpho,4,morpho
+insects,cockchafer,4,maybug
+insects,velvet ant,4,
+insects,paper wasp,4,
+insects,bald faced hornet,4,
+insects,asian giant hornet,4,murder hornet
+insects,weta,4,
+insects,jewel beetle,4,
+insects,colorado potato beetle,4,potato beetle
+insects,madagascar hissing cockroach,4,hissing cockroach
+insects,orchid mantis,4,
+insects,leaf insect,4,
+insects,mason bee,4,
+insects,sweat bee,4,
+insects,cave cricket,4,camel cricket|cave weta
+insects,jerusalem cricket,4,potato bug
+insects,hornworm,4,tomato hornworm
+insects,glowworm,4,glow worm
+insects,midge,4,
+insects,black fly,4,
+insects,blow fly,4,bluebottle|greenbottle
+insects,hoverfly,4,flower fly|syrphid fly|hover fly
+insects,robber fly,4,
+insects,titan beetle,4,
+insects,darkling beetle,4,
+insects,rove beetle,4,
+insects,diving beetle,4,
+insects,bark beetle,4,pine beetle|mountain pine beetle
+insects,red admiral,4,admiral
+insects,viceroy,4,
+insects,cabbage white,4,
+insects,birdwing,4,
+insects,peppered moth,4,
+insects,clothes moth,4,
+insects,gypsy moth,4,spongy moth
+insects,cicada killer,4,
+insects,water boatman,4,
+insects,mantisfly,4,mantidfly
+insects,owlfly,4,
+insects,cutworm,4,
+insects,armyworm,4,
+insects,bristletail,5,jumping bristletail
+insects,webspinner,5,embiid
+insects,angel insect,5,zorapteran
+insects,snakefly,5,
+insects,alderfly,5,
+insects,fishfly,5,
+insects,twisted wing parasite,5,strepsipteran|strepsiptera
+insects,booklouse,5,barklouse|psocid
+insects,heel walker,5,gladiator
+insects,rock crawler,5,ice crawler|grylloblattid
+insects,firebrat,5,
+insects,bagworm,5,
+insects,wireworm,5,
+insects,bollworm,5,
+insects,waxworm,5,
+insects,biting midge,5,no see um|punkie
+insects,sand fly,5,sandfly
+insects,flesh fly,5,
+insects,bee fly,5,
+insects,snipe fly,5,
+insects,stalk eyed fly,5,
+insects,louse fly,5,
+insects,warble fly,5,
+insects,screwworm,5,
+insects,atlas beetle,5,
+insects,devils coach horse,5,
+insects,burying beetle,5,sexton beetle
+insects,water scavenger beetle,5,
+insects,ambrosia beetle,5,
+insects,deathwatch beetle,5,
+insects,cigarette beetle,5,
+insects,flour beetle,5,
+insects,larder beetle,5,
+insects,soldier beetle,5,
+insects,cucumber beetle,5,
+insects,flea beetle,5,
+insects,tortoise beetle,5,
+insects,leaf beetle,5,
+insects,skipper,5,
+insects,hairstreak,5,
+insects,fritillary,5,
+insects,sulphur butterfly,5,
+insects,owl butterfly,5,
+insects,glasswing butterfly,5,
+insects,buckeye butterfly,5,
+insects,mourning cloak,5,
+insects,codling moth,5,
+insects,tiger moth,5,woolly bear
+insects,io moth,5,
+insects,polyphemus moth,5,
+insects,deaths head hawkmoth,5,deaths head moth
+insects,queen alexandras birdwing,5,
+insects,pygmy grasshopper,5,
+insects,lubber grasshopper,5,lubber
+insects,water scorpion,5,
+insects,milkweed bug,5,
+insects,squash bug,5,
+insects,chinch bug,5,
+insects,lace bug,5,
+insects,honeypot ant,5,honey ant
+insects,weaver ant,5,
+insects,trap jaw ant,5,
+insects,pharaoh ant,5,
+insects,argentine ant,5,
+insects,leafcutter bee,5,
+insects,fig wasp,5,
+insects,ichneumon wasp,5,ichneumon
+insects,gall wasp,5,
+insects,chalcid wasp,5,chalcid
+insects,periodical cicada,5,
+insects,vinegar fly,5,
+insects,earwigfly,5,
+insects,giant weta,5,
+#prompt,trees,Name a type of tree
+trees,oak,1,oak tree
+trees,maple,1,maple tree
+trees,pine,1,pine tree
+trees,palm,1,palm tree
+trees,birch,1,birch tree
+trees,willow,1,willow tree
+trees,redwood,2,coast redwood|redwood tree
+trees,sequoia,2,giant sequoia|sequoia tree
+trees,cherry,2,cherry tree
+trees,apple,2,apple tree
+trees,spruce,2,spruce tree
+trees,fir,2,fir tree
+trees,cedar,2,cedar tree
+trees,elm,2,elm tree
+trees,ash,2,ash tree
+trees,aspen,2,aspen tree
+trees,cypress,2,cypress tree
+trees,beech,2,beech tree
+trees,sycamore,2,sycamore tree
+trees,poplar,2,poplar tree
+trees,magnolia,2,magnolia tree
+trees,dogwood,2,dogwood tree
+trees,walnut,2,walnut tree
+trees,hickory,2,hickory tree
+trees,chestnut,2,chestnut tree
+trees,orange,2,orange tree
+trees,lemon,2,lemon tree
+trees,eucalyptus,2,gum tree|gum|eucalyptus tree
+trees,weeping willow,3,weeping willow tree
+trees,cottonwood,3,cottonwood tree
+trees,baobab,3,baobab tree
+trees,juniper,3,juniper tree
+trees,hemlock,3,hemlock tree
+trees,larch,3,larch tree
+trees,yew,3,yew tree
+trees,alder,3,alder tree
+trees,linden,3,basswood|linden tree
+trees,locust,3,black locust|honey locust|locust tree
+trees,mahogany,3,mahogany tree
+trees,teak,3,teak tree
+trees,olive,3,olive tree
+trees,fig,3,fig tree
+trees,peach,3,peach tree
+trees,pear,3,pear tree
+trees,plum,3,plum tree
+trees,mango,3,mango tree
+trees,avocado,3,avocado tree
+trees,almond,3,almond tree
+trees,pecan,3,pecan tree
+trees,hazel,3,hazelnut|hazel tree
+trees,mulberry,3,mulberry tree
+trees,horse chestnut,3,conker|horse chestnut tree
+trees,red maple,3,red maple tree
+trees,sugar maple,3,sugar maple tree
+trees,white oak,3,white oak tree
+trees,red oak,3,red oak tree
+trees,douglas fir,3,douglas fir tree
+trees,joshua tree,3,
+trees,cherry blossom,3,sakura|japanese cherry|cherry blossom tree
+trees,ginkgo,3,maidenhair tree|gingko|ginkgo tree
+trees,acacia,3,acacia tree
+trees,holly,3,holly tree
+trees,banyan,3,banyan tree
+trees,coconut,3,coconut palm|coconut tree
+trees,date palm,3,date palm tree
+trees,mangrove,3,mangrove tree
+trees,christmas tree,3,
+trees,ebony,4,ebony tree
+trees,sassafras,4,sassafras tree
+trees,buckeye,4,buckeye tree
+trees,silver maple,4,silver maple tree
+trees,japanese maple,4,japanese maple tree
+trees,live oak,4,live oak tree
+trees,cork oak,4,cork oak tree
+trees,scots pine,4,scotch pine|scots pine tree
+trees,white pine,4,white pine tree
+trees,ponderosa pine,4,ponderosa pine tree
+trees,bristlecone pine,4,bristlecone pine tree
+trees,balsam fir,4,balsam fir tree
+trees,blue spruce,4,colorado blue spruce|blue spruce tree
+trees,paper birch,4,white birch|paper birch tree
+trees,silver birch,4,silver birch tree
+trees,quaking aspen,4,quaking aspen tree
+trees,jacaranda,4,jacaranda tree
+trees,mesquite,4,mesquite tree
+trees,bald cypress,4,bald cypress tree
+trees,palo verde,4,palo verde tree
+trees,tulip tree,4,tulip poplar|yellow poplar
+trees,catalpa,4,catalpa tree
+trees,sweetgum,4,sweet gum|sweetgum tree
+trees,black gum,4,tupelo|black gum tree
+trees,hawthorn,4,hawthorn tree
+trees,rowan,4,mountain ash|rowan tree
+trees,laurel,4,bay laurel|bay|laurel tree
+trees,rubber tree,4,
+trees,kapok,4,ceiba|kapok tree
+trees,sandalwood,4,sandalwood tree
+trees,rosewood,4,rosewood tree
+trees,balsa,4,balsa tree
+trees,dragon tree,4,dragon blood tree|dragons blood tree
+trees,monkey puzzle,4,araucaria|monkey puzzle tree
+trees,tamarind,4,tamarind tree
+trees,neem,4,neem tree
+trees,jackfruit,4,jackfruit tree
+trees,breadfruit,4,breadfruit tree
+trees,cacao,4,cocoa|cacao tree
+trees,persimmon,4,persimmon tree
+trees,pawpaw,4,pawpaw tree
+trees,crabapple,4,crab apple|crabapple tree
+trees,apricot,4,apricot tree
+trees,nectarine,4,nectarine tree
+trees,lime,4,lime tree
+trees,grapefruit,4,grapefruit tree
+trees,hornbeam,4,hornbeam tree
+trees,plane tree,4,london plane
+trees,cedar of lebanon,4,cedar of lebanon tree
+trees,redbud,4,redbud tree
+trees,crepe myrtle,4,crape myrtle|crepe myrtle tree
+trees,mimosa,4,silk tree|mimosa tree
+trees,dawn redwood,4,metasequoia|dawn redwood tree
+trees,arborvitae,4,thuja|arborvitae tree
+trees,lychee,4,lychee tree
+trees,pistachio,4,pistachio tree
+trees,cashew,4,cashew tree
+trees,macadamia,4,macadamia tree
+trees,cinnamon,4,cinnamon tree
+trees,bur oak,5,bur oak tree
+trees,lodgepole pine,5,lodgepole pine tree
+trees,longleaf pine,5,longleaf pine tree
+trees,jack pine,5,jack pine tree
+trees,loblolly pine,5,loblolly pine tree
+trees,fraser fir,5,fraser fir tree
+trees,noble fir,5,noble fir tree
+trees,norway spruce,5,norway spruce tree
+trees,sitka spruce,5,sitka spruce tree
+trees,river birch,5,river birch tree
+trees,ironwood,5,ironwood tree
+trees,wollemi pine,5,wollemi pine tree
+trees,norfolk island pine,5,norfolk island pine tree
+trees,kauri,5,kauri tree
+trees,rimu,5,rimu tree
+trees,totara,5,totara tree
+trees,pohutukawa,5,pohutukawa tree
+trees,jarrah,5,jarrah tree
+trees,karri,5,karri tree
+trees,nutmeg,5,nutmeg tree
+trees,clove,5,clove tree
+trees,moringa,5,moringa tree
+trees,frankincense,5,frankincense tree
+trees,myrrh,5,myrrh tree
+trees,argan,5,argan tree
+trees,sapodilla,5,sapodilla tree
+trees,durian,5,durian tree
+trees,royal palm,5,royal palm tree
+trees,box elder,5,box elder tree
+trees,deodar,5,deodar tree
+trees,serviceberry,5,juneberry|shadbush|serviceberry tree
+trees,sumac,5,sumac tree
+trees,osage orange,5,hedge apple|osage orange tree
+trees,kentucky coffeetree,5,
+trees,butternut,5,butternut tree
+trees,chinquapin,5,chinquapin tree
+trees,hackberry,5,hackberry tree
+trees,yellowwood,5,yellowwood tree
+trees,tree of heaven,5,ailanthus|tree of heaven tree
+trees,paulownia,5,princess tree|empress tree|paulownia tree
+trees,tamarack,5,tamarack tree
+trees,bodhi tree,5,bo tree|sacred fig|peepal
+trees,black walnut,5,black walnut tree
+trees,white ash,5,white ash tree
+trees,green ash,5,green ash tree
+trees,american elm,5,american elm tree
+trees,slippery elm,5,slippery elm tree
+trees,eastern hemlock,5,eastern hemlock tree
+trees,western red cedar,5,western red cedar tree
+trees,incense cedar,5,incense cedar tree
+trees,bunya pine,5,bunya pine tree
+trees,quince,5,quince tree
+trees,loquat,5,loquat tree
+trees,medlar,5,medlar tree
+trees,ackee,5,ackee tree
+trees,wych elm,5,wych elm tree
+trees,alligator juniper,5,alligator juniper tree
+trees,ponytail palm,5,ponytail palm tree
+trees,silver fir,5,silver fir tree
+trees,umbrella pine,5,umbrella pine tree
+trees,camphor tree,5,camphor
+trees,lacebark,5,lacebark tree
+#prompt,flowers,Name a flower
+flowers,rose,1,
+flowers,tulip,1,
+flowers,daisy,1,
+flowers,sunflower,1,
+flowers,lily,1,
+flowers,orchid,1,
+flowers,daffodil,2,
+flowers,carnation,2,
+flowers,lavender,2,
+flowers,lilac,2,
+flowers,dandelion,2,
+flowers,poppy,2,
+flowers,hibiscus,2,
+flowers,marigold,2,
+flowers,violet,2,
+flowers,iris,2,
+flowers,chrysanthemum,2,mum
+flowers,peony,2,
+flowers,lotus,2,
+flowers,jasmine,2,
+flowers,hydrangea,2,
+flowers,petunia,2,
+flowers,pansy,2,
+flowers,geranium,2,
+flowers,cherry blossom,2,sakura
+flowers,buttercup,2,
+flowers,begonia,2,
+flowers,gardenia,2,
+flowers,zinnia,2,
+flowers,aster,2,
+flowers,dahlia,2,
+flowers,magnolia,2,
+flowers,lily of the valley,3,
+flowers,morning glory,3,
+flowers,snapdragon,3,
+flowers,gladiolus,3,glad|gladiola
+flowers,hyacinth,3,
+flowers,azalea,3,
+flowers,camellia,3,
+flowers,forget me not,3,
+flowers,bluebell,3,
+flowers,foxglove,3,
+flowers,honeysuckle,3,
+flowers,poinsettia,3,
+flowers,primrose,3,
+flowers,crocus,3,
+flowers,amaryllis,3,
+flowers,calla lily,3,calla
+flowers,tiger lily,3,
+flowers,water lily,3,waterlily
+flowers,cornflower,3,bachelors button
+flowers,sweet pea,3,
+flowers,wisteria,3,
+flowers,bougainvillea,3,
+flowers,rhododendron,3,
+flowers,heather,3,
+flowers,freesia,3,
+flowers,ranunculus,3,
+flowers,anemone,3,windflower
+flowers,lupine,3,lupin
+flowers,cosmos,3,
+flowers,impatiens,3,
+flowers,verbena,3,
+flowers,periwinkle,3,vinca
+flowers,plumeria,3,frangipani
+flowers,bird of paradise,3,strelitzia
+flowers,protea,3,
+flowers,edelweiss,3,
+flowers,larkspur,3,
+flowers,delphinium,3,
+flowers,snowdrop,3,
+flowers,black eyed susan,3,rudbeckia
+flowers,coneflower,3,echinacea
+flowers,goldenrod,3,
+flowers,thistle,3,
+flowers,oleander,3,
+flowers,gerbera,3,gerbera daisy
+flowers,alstroemeria,3,peruvian lily
+flowers,babys breath,3,gypsophila
+flowers,narcissus,3,
+flowers,clover,3,
+flowers,statice,4,
+flowers,sweet william,4,
+flowers,phlox,4,
+flowers,salvia,4,
+flowers,yarrow,4,
+flowers,columbine,4,
+flowers,bleeding heart,4,
+flowers,hollyhock,4,
+flowers,nasturtium,4,
+flowers,calendula,4,pot marigold
+flowers,lantana,4,
+flowers,hellebore,4,lenten rose|christmas rose
+flowers,cyclamen,4,
+flowers,trillium,4,
+flowers,passionflower,4,passion flower
+flowers,tuberose,4,
+flowers,allium,4,
+flowers,clematis,4,
+flowers,anthurium,4,
+flowers,ladys slipper,4,lady slipper
+flowers,corpse flower,4,titan arum
+flowers,rafflesia,4,
+flowers,bluebonnet,4,
+flowers,african violet,4,
+flowers,forsythia,4,
+flowers,california poppy,4,
+flowers,daylily,4,day lily
+flowers,stargazer lily,4,stargazer
+flowers,easter lily,4,
+flowers,peace lily,4,
+flowers,dianthus,4,pinks
+flowers,aconite,4,monkshood|wolfsbane
+flowers,primula,4,
+flowers,sweet alyssum,4,alyssum
+flowers,sea holly,4,eryngium
+flowers,orange blossom,4,
+flowers,apple blossom,4,
+flowers,cockscomb,4,celosia
+flowers,crown imperial,4,
+flowers,chicory,4,
+flowers,queen annes lace,4,
+flowers,buddleia,4,butterfly bush
+flowers,bloodroot,5,
+flowers,stephanotis,5,
+flowers,lisianthus,5,eustoma
+flowers,ageratum,5,
+flowers,gaillardia,5,blanket flower
+flowers,coreopsis,5,tickseed
+flowers,scabiosa,5,pincushion flower
+flowers,agapanthus,5,lily of the nile
+flowers,moonflower,5,
+flowers,four oclock,5,four o clock
+flowers,lobelia,5,
+flowers,nigella,5,love in a mist
+flowers,indian paintbrush,5,
+flowers,fireweed,5,
+flowers,saxifrage,5,
+flowers,gentian,5,
+flowers,belladonna,5,deadly nightshade
+flowers,shasta daisy,5,
+flowers,gazania,5,
+flowers,osteospermum,5,african daisy
+flowers,heliotrope,5,
+flowers,waratah,5,
+flowers,kangaroo paw,5,
+flowers,banksia,5,
+flowers,cowslip,5,
+flowers,grape hyacinth,5,muscari
+flowers,jonquil,5,
+flowers,rose of sharon,5,
+flowers,hepatica,5,
+flowers,bergenia,5,
+flowers,astilbe,5,
+flowers,campanula,5,bellflower
+flowers,penstemon,5,beardtongue
+flowers,echium,5,
+flowers,gaura,5,
+flowers,dicentra,5,
+flowers,kniphofia,5,red hot poker|torch lily
+flowers,fritillaria,5,snakes head
+flowers,sweet woodruff,5,
+flowers,mandevilla,5,
+flowers,hoya,5,wax flower
+flowers,dendrobium,5,
+flowers,cymbidium,5,
+flowers,phalaenopsis,5,moth orchid
+flowers,oncidium,5,
+flowers,vanda,5,
+flowers,ixia,5,
+flowers,sparaxis,5,
+flowers,crocosmia,5,montbretia
+flowers,torenia,5,
+flowers,celandine,5,
+flowers,oxlip,5,
+flowers,globe amaranth,5,gomphrena
+flowers,strawflower,5,everlasting
+#prompt,pasta_shapes,Name a type of pasta
+pasta_shapes,spaghetti,1,
+pasta_shapes,penne,1,penne rigate
+pasta_shapes,macaroni,1,elbow macaroni|elbows|elbow
+pasta_shapes,fettuccine,1,fettucini
+pasta_shapes,lasagna,1,lasagne
+pasta_shapes,ravioli,1,
+pasta_shapes,linguine,1,linguini
+pasta_shapes,rigatoni,2,
+pasta_shapes,farfalle,2,bow tie|bowtie|bow ties|bowties|bow tie pasta
+pasta_shapes,tortellini,2,
+pasta_shapes,rotini,2,
+pasta_shapes,ziti,2,
+pasta_shapes,angel hair,2,capelli dangelo
+pasta_shapes,gnocchi,2,
+pasta_shapes,orzo,2,risoni
+pasta_shapes,fusilli,2,
+pasta_shapes,manicotti,2,
+pasta_shapes,shells,2,conchiglie|shell pasta|pasta shells
+pasta_shapes,tagliatelle,2,
+pasta_shapes,cannelloni,2,
+pasta_shapes,vermicelli,2,
+pasta_shapes,egg noodles,2,egg noodle
+pasta_shapes,pappardelle,3,
+pasta_shapes,bucatini,3,perciatelli
+pasta_shapes,orecchiette,3,
+pasta_shapes,cavatappi,3,
+pasta_shapes,gemelli,3,
+pasta_shapes,campanelle,3,
+pasta_shapes,ditalini,3,
+pasta_shapes,radiatori,3,
+pasta_shapes,rotelle,3,wagon wheels|ruote|wheels
+pasta_shapes,stelline,3,stars|star pasta
+pasta_shapes,acini di pepe,3,
+pasta_shapes,capellini,3,
+pasta_shapes,cavatelli,3,
+pasta_shapes,mostaccioli,3,
+pasta_shapes,paccheri,3,
+pasta_shapes,tortelloni,3,
+pasta_shapes,spaghettini,3,
+pasta_shapes,alphabet pasta,3,alfabeto|alphabets|letters
+pasta_shapes,pastina,3,
+pasta_shapes,conchiglioni,3,jumbo shells|stuffed shells
+pasta_shapes,tortiglioni,3,
+pasta_shapes,agnolotti,4,
+pasta_shapes,mafaldine,4,mafalda|reginette
+pasta_shapes,trofie,4,
+pasta_shapes,strozzapreti,4,
+pasta_shapes,casarecce,4,
+pasta_shapes,cappelletti,4,
+pasta_shapes,fregola,4,fregula
+pasta_shapes,lumache,4,
+pasta_shapes,tagliolini,4,taglierini
+pasta_shapes,pici,4,
+pasta_shapes,garganelli,4,
+pasta_shapes,tubetti,4,
+pasta_shapes,calamarata,4,
+pasta_shapes,mezze maniche,4,
+pasta_shapes,anelletti,4,anelli
+pasta_shapes,ditali,4,
+pasta_shapes,farfalline,4,
+pasta_shapes,bavette,4,
+pasta_shapes,trenette,4,
+pasta_shapes,fideo,4,fideos
+pasta_shapes,spaetzle,4,spatzle
+pasta_shapes,tonnarelli,4,
+pasta_shapes,chitarra,4,spaghetti alla chitarra
+pasta_shapes,sedani,4,sedanini
+pasta_shapes,elicoidali,4,
+pasta_shapes,fusilli lunghi,4,
+pasta_shapes,bigoli,5,
+pasta_shapes,maltagliati,5,
+pasta_shapes,corzetti,5,croxetti
+pasta_shapes,lorighittas,5,
+pasta_shapes,su filindeu,5,filindeu
+pasta_shapes,busiate,5,
+pasta_shapes,malloreddus,5,gnocchetti sardi
+pasta_shapes,culurgiones,5,culurgionis
+pasta_shapes,sorpresine,5,
+pasta_shapes,testaroli,5,
+pasta_shapes,scialatielli,5,
+pasta_shapes,gramigna,5,
+pasta_shapes,canestrini,5,
+pasta_shapes,creste di gallo,5,
+pasta_shapes,gigli,5,
+pasta_shapes,cappellacci,5,
+pasta_shapes,mezzelune,5,
+pasta_shapes,tortelli,5,
+pasta_shapes,pansotti,5,
+pasta_shapes,caramelle,5,
+pasta_shapes,fagottini,5,
+pasta_shapes,strangozzi,5,stringozzi
+pasta_shapes,umbricelli,5,
+pasta_shapes,candele,5,
+pasta_shapes,zitoni,5,
+pasta_shapes,quadrettini,5,
+pasta_shapes,spirali,5,
+pasta_shapes,fiori,5,
+pasta_shapes,lanterne,5,
+#prompt,cheeses,Name a type of cheese
+cheeses,cheddar,1,
+cheeses,mozzarella,1,
+cheeses,parmesan,1,parmigiano reggiano|parmigiano|parmesan reggiano
+cheeses,swiss,1,swiss cheese
+cheeses,american,1,american cheese
+cheeses,brie,1,
+cheeses,feta,1,
+cheeses,provolone,2,
+cheeses,gouda,2,
+cheeses,pepper jack,2,pepperjack
+cheeses,monterey jack,2,jack|jack cheese
+cheeses,colby,2,
+cheeses,colby jack,2,cojack|co jack
+cheeses,ricotta,2,
+cheeses,cream cheese,2,
+cheeses,cottage cheese,2,
+cheeses,blue cheese,2,bleu cheese|blue|bleu
+cheeses,goat cheese,2,chevre|goats cheese
+cheeses,camembert,2,
+cheeses,gruyere,2,
+cheeses,muenster,2,munster
+cheeses,havarti,2,
+cheeses,gorgonzola,2,
+cheeses,mascarpone,2,
+cheeses,string cheese,2,
+cheeses,queso fresco,2,
+cheeses,romano,2,pecorino romano
+cheeses,asiago,2,
+cheeses,burrata,2,
+cheeses,manchego,3,
+cheeses,roquefort,3,
+cheeses,stilton,3,
+cheeses,emmental,3,emmentaler|emmenthal
+cheeses,halloumi,3,haloumi
+cheeses,paneer,3,
+cheeses,velveeta,3,
+cheeses,edam,3,
+cheeses,fontina,3,
+cheeses,jarlsberg,3,
+cheeses,limburger,3,
+cheeses,comte,3,
+cheeses,pecorino,3,
+cheeses,oaxaca,3,quesillo
+cheeses,cotija,3,
+cheeses,queso blanco,3,
+cheeses,neufchatel,3,
+cheeses,wensleydale,3,
+cheeses,raclette,3,
+cheeses,grana padano,3,
+cheeses,cheese curds,3,curds
+cheeses,taleggio,4,
+cheeses,epoisses,4,
+cheeses,reblochon,4,
+cheeses,brunost,4,gjetost|geitost
+cheeses,caerphilly,4,
+cheeses,cheshire,4,
+cheeses,red leicester,4,leicester
+cheeses,double gloucester,4,gloucester
+cheeses,port salut,4,
+cheeses,mimolette,4,
+cheeses,morbier,4,
+cheeses,saint andre,4,st andre
+cheeses,cambozola,4,
+cheeses,danish blue,4,danablu
+cheeses,brillat savarin,4,
+cheeses,beaufort,4,
+cheeses,appenzeller,4,
+cheeses,tilsit,4,tilsiter
+cheeses,butterkase,4,
+cheeses,quark,4,
+cheeses,labneh,4,labne
+cheeses,kasseri,4,
+cheeses,mizithra,4,myzithra
+cheeses,chihuahua,4,queso chihuahua
+cheeses,panela,4,queso panela
+cheeses,scamorza,4,
+cheeses,caciocavallo,4,
+cheeses,ricotta salata,4,
+cheeses,bocconcini,4,
+cheeses,stracciatella,4,
+cheeses,tomme,4,tomme de savoie
+cheeses,bel paese,5,
+cheeses,cantal,5,
+cheeses,tete de moine,5,
+cheeses,vacherin,5,vacherin mont dor
+cheeses,maytag blue,5,maytag
+cheeses,chaource,5,
+cheeses,livarot,5,
+cheeses,pont leveque,5,
+cheeses,lancashire,5,
+cheeses,kashkaval,5,
+cheeses,kefalotyri,5,
+cheeses,graviera,5,
+cheeses,idiazabal,5,
+cheeses,mahon,5,
+cheeses,tetilla,5,
+cheeses,cabrales,5,
+cheeses,torta del casar,5,
+cheeses,serra da estrela,5,queijo serra da estrela
+cheeses,manouri,5,
+cheeses,stracchino,5,
+cheeses,crescenza,5,
+cheeses,montasio,5,
+cheeses,castelmagno,5,
+cheeses,leyden,5,
+cheeses,abondance,5,
+cheeses,saint nectaire,5,st nectaire
+cheeses,ossau iraty,5,
+cheeses,fourme dambert,5,fourme d ambert
+cheeses,bleu dauvergne,5,bleu d auvergne
+cheeses,shropshire blue,5,
+cheeses,stinking bishop,5,
+cheeses,cornish yarg,5,yarg
+cheeses,brick,5,brick cheese
+cheeses,juustoleipa,5,bread cheese|squeaky cheese
+#prompt,spices_herbs,Name a spice or herb
+spices_herbs,pepper,1,black pepper|peppercorn
+spices_herbs,cinnamon,1,
+spices_herbs,basil,1,
+spices_herbs,oregano,1,
+spices_herbs,paprika,1,smoked paprika
+spices_herbs,rosemary,1,
+spices_herbs,thyme,2,
+spices_herbs,parsley,2,
+spices_herbs,cumin,2,
+spices_herbs,nutmeg,2,
+spices_herbs,ginger,2,
+spices_herbs,garlic,2,garlic powder
+spices_herbs,turmeric,2,
+spices_herbs,cilantro,2,chinese parsley
+spices_herbs,coriander,2,coriander seed
+spices_herbs,mint,2,peppermint|spearmint
+spices_herbs,dill,2,dill weed
+spices_herbs,sage,2,
+spices_herbs,chili powder,2,chilli powder
+spices_herbs,cayenne,2,cayenne pepper
+spices_herbs,clove,2,
+spices_herbs,bay leaf,2,bay|bay leaves|laurel
+spices_herbs,chives,2,chive
+spices_herbs,vanilla,2,vanilla bean
+spices_herbs,saffron,2,
+spices_herbs,curry powder,2,curry
+spices_herbs,allspice,3,jamaica pepper|pimento
+spices_herbs,cardamom,3,cardamon
+spices_herbs,fennel,3,fennel seed
+spices_herbs,star anise,3,
+spices_herbs,anise,3,aniseed|anise seed
+spices_herbs,mustard seed,3,mustard
+spices_herbs,tarragon,3,
+spices_herbs,marjoram,3,
+spices_herbs,lemongrass,3,lemon grass
+spices_herbs,sesame,3,sesame seed
+spices_herbs,caraway,3,caraway seed
+spices_herbs,garam masala,3,
+spices_herbs,lavender,3,
+spices_herbs,white pepper,3,
+spices_herbs,horseradish,3,
+spices_herbs,wasabi,3,
+spices_herbs,onion powder,3,
+spices_herbs,red pepper flakes,3,crushed red pepper|chili flakes|chilli flakes
+spices_herbs,chipotle,3,
+spices_herbs,poppy seed,3,poppy
+spices_herbs,italian seasoning,3,
+spices_herbs,celery seed,4,
+spices_herbs,fenugreek,4,methi
+spices_herbs,sumac,4,sumach
+spices_herbs,zaatar,4,za atar|zatar
+spices_herbs,chinese five spice,4,five spice
+spices_herbs,chamomile,4,camomile
+spices_herbs,mace,4,
+spices_herbs,juniper,4,juniper berry
+spices_herbs,galangal,4,
+spices_herbs,nigella,4,kalonji|black seed|charnushka
+spices_herbs,annatto,4,achiote
+spices_herbs,sichuan pepper,4,szechuan pepper|szechwan pepper
+spices_herbs,pink peppercorn,4,pink pepper
+spices_herbs,chervil,4,
+spices_herbs,sorrel,4,
+spices_herbs,shiso,4,perilla
+spices_herbs,lemon balm,4,
+spices_herbs,savory,4,summer savory|winter savory
+spices_herbs,kaffir lime leaf,4,makrut lime leaf|lime leaf|kaffir lime
+spices_herbs,curry leaf,4,curry leaves
+spices_herbs,tamarind,4,
+spices_herbs,pandan,4,pandan leaf
+spices_herbs,herbes de provence,4,
+spices_herbs,asafoetida,5,hing|asafetida
+spices_herbs,ajwain,5,carom|carom seed|ajowan
+spices_herbs,grains of paradise,5,melegueta pepper
+spices_herbs,long pepper,5,pippali
+spices_herbs,lovage,5,
+spices_herbs,borage,5,
+spices_herbs,epazote,5,
+spices_herbs,culantro,5,
+spices_herbs,lemon verbena,5,
+spices_herbs,hyssop,5,
+spices_herbs,rue,5,
+spices_herbs,angelica,5,
+spices_herbs,mahleb,5,mahlab
+spices_herbs,amchur,5,amchoor|mango powder
+spices_herbs,kokum,5,
+spices_herbs,licorice root,5,liquorice root|licorice|liquorice
+spices_herbs,orris root,5,
+spices_herbs,zedoary,5,
+spices_herbs,wattleseed,5,
+spices_herbs,ras el hanout,5,
+spices_herbs,berbere,5,
+spices_herbs,baharat,5,
+#prompt,bones,Name a bone in the human body
+bones,femur,1,thigh bone|thighbone
+bones,skull,1,cranium
+bones,rib,1,ribcage|rib cage
+bones,tibia,1,shin bone|shinbone
+bones,spine,1,backbone|spinal column|vertebral column
+bones,humerus,2,upper arm bone
+bones,fibula,2,calf bone
+bones,radius,2,
+bones,ulna,2,
+bones,pelvis,2,pelvic bone|pelvic girdle
+bones,clavicle,2,collarbone|collar bone
+bones,scapula,2,shoulder blade
+bones,patella,2,kneecap|knee cap
+bones,sternum,2,breastbone|breast bone
+bones,mandible,2,jawbone|jaw bone|jaw|lower jaw
+bones,vertebra,2,vertebrae
+bones,coccyx,2,tailbone|tail bone
+bones,phalanx,2,phalanges|finger bone|toe bone
+bones,hip bone,2,hip|coxal bone|os coxae|innominate bone
+bones,stapes,3,stirrup
+bones,sacrum,3,
+bones,maxilla,3,upper jaw
+bones,metacarpal,3,metacarpals
+bones,metatarsal,3,metatarsals
+bones,carpal,3,carpals|wrist bone
+bones,tarsal,3,tarsals
+bones,calcaneus,3,heel bone|calcaneum
+bones,hyoid,3,hyoid bone
+bones,incus,4,anvil
+bones,malleus,4,hammer
+bones,talus,4,ankle bone|astragalus
+bones,ilium,4,
+bones,ischium,4,
+bones,pubis,4,pubic bone
+bones,frontal bone,4,frontal
+bones,parietal bone,4,parietal
+bones,temporal bone,4,temporal
+bones,occipital bone,4,occipital
+bones,zygomatic bone,4,zygomatic|cheekbone|cheek bone|zygoma|malar bone
+bones,nasal bone,4,nasal
+bones,atlas,4,
+bones,axis,4,
+bones,scaphoid,4,
+bones,sphenoid,5,sphenoid bone
+bones,ethmoid,5,ethmoid bone
+bones,lacrimal,5,lacrimal bone
+bones,palatine,5,palatine bone
+bones,vomer,5,
+bones,inferior nasal concha,5,turbinate|nasal concha
+bones,lunate,5,
+bones,triquetrum,5,triquetral
+bones,pisiform,5,
+bones,trapezium,5,
+bones,trapezoid,5,
+bones,capitate,5,
+bones,hamate,5,
+bones,navicular,5,
+bones,cuboid,5,
+bones,cuneiform,5,medial cuneiform|intermediate cuneiform|lateral cuneiform
+bones,sesamoid,5,sesamoid bone
+#prompt,constellations,Name a constellation
+constellations,orion,1,hunter
+constellations,ursa major,1,great bear|big bear
+constellations,ursa minor,1,little bear|lesser bear
+constellations,cassiopeia,1,
+constellations,scorpius,1,scorpio|scorpion
+constellations,gemini,1,twins
+constellations,leo,2,lion
+constellations,taurus,2,bull
+constellations,aries,2,ram
+constellations,virgo,2,virgin|maiden
+constellations,sagittarius,2,archer
+constellations,pisces,2,fish|fishes
+constellations,aquarius,2,water bearer|water carrier
+constellations,cancer,2,crab
+constellations,libra,2,scales|balance
+constellations,capricornus,2,capricorn|sea goat|goat
+constellations,draco,2,dragon
+constellations,pegasus,2,winged horse
+constellations,andromeda,2,
+constellations,perseus,2,
+constellations,hercules,2,
+constellations,cygnus,2,swan
+constellations,canis major,2,great dog|big dog
+constellations,crux,2,southern cross
+constellations,lyra,3,lyre|harp
+constellations,aquila,3,eagle
+constellations,centaurus,3,centaur
+constellations,cepheus,3,
+constellations,phoenix,3,
+constellations,hydra,3,sea serpent
+constellations,canis minor,3,little dog|lesser dog
+constellations,ophiuchus,3,serpent bearer
+constellations,lepus,3,hare
+constellations,corona borealis,3,northern crown
+constellations,bootes,3,herdsman
+constellations,auriga,3,charioteer
+constellations,delphinus,3,dolphin
+constellations,monoceros,3,unicorn
+constellations,lupus,3,wolf
+constellations,cetus,3,whale|sea monster
+constellations,lynx,3,
+constellations,serpens,3,serpent|snake
+constellations,eridanus,3,river
+constellations,carina,3,keel
+constellations,corvus,4,crow|raven
+constellations,sagitta,4,arrow
+constellations,vulpecula,4,little fox|fox
+constellations,lacerta,4,lizard
+constellations,triangulum,4,triangle
+constellations,coma berenices,4,berenices hair
+constellations,canes venatici,4,hunting dogs
+constellations,leo minor,4,little lion|lesser lion
+constellations,columba,4,dove
+constellations,vela,4,sails
+constellations,puppis,4,stern|poop deck
+constellations,crater,4,cup
+constellations,corona australis,4,southern crown|corona austrina
+constellations,pavo,4,peacock
+constellations,grus,4,crane
+constellations,tucana,4,toucan
+constellations,dorado,4,swordfish|goldfish
+constellations,piscis austrinus,4,southern fish|piscis australis
+constellations,scutum,4,shield
+constellations,camelopardalis,4,giraffe
+constellations,hydrus,4,lesser water snake|male water snake
+constellations,ara,4,altar
+constellations,antlia,5,air pump
+constellations,apus,5,bird of paradise
+constellations,caelum,5,chisel
+constellations,chamaeleon,5,chameleon
+constellations,circinus,5,compasses|drafting compass
+constellations,equuleus,5,little horse|foal
+constellations,fornax,5,furnace
+constellations,horologium,5,clock|pendulum clock
+constellations,indus,5,indian
+constellations,mensa,5,table mountain
+constellations,microscopium,5,microscope
+constellations,musca,5,fly
+constellations,norma,5,carpenters square|level
+constellations,octans,5,octant
+constellations,pictor,5,painters easel|easel
+constellations,pyxis,5,mariners compass
+constellations,reticulum,5,reticle|net
+constellations,sculptor,5,
+constellations,sextans,5,sextant
+constellations,telescopium,5,telescope
+constellations,triangulum australe,5,southern triangle
+constellations,volans,5,flying fish
+#prompt,moons,Name a moon in our solar system
+moons,moon,1,luna|earths moon|earth moon
+moons,titan,1,
+moons,europa,1,
+moons,io,1,
+moons,ganymede,1,
+moons,callisto,2,
+moons,phobos,2,
+moons,deimos,2,
+moons,enceladus,2,
+moons,triton,2,
+moons,charon,2,
+moons,mimas,3,
+moons,rhea,3,
+moons,iapetus,3,
+moons,dione,3,
+moons,tethys,3,
+moons,miranda,3,
+moons,oberon,3,
+moons,titania,3,
+moons,umbriel,3,
+moons,ariel,3,
+moons,hyperion,3,
+moons,phoebe,3,
+moons,nereid,3,
+moons,amalthea,4,
+moons,himalia,4,
+moons,pan,4,
+moons,atlas,4,
+moons,prometheus,4,
+moons,pandora,4,
+moons,janus,4,
+moons,epimetheus,4,
+moons,puck,4,
+moons,proteus,4,
+moons,nix,4,
+moons,hydra,4,
+moons,kerberos,4,cerberus
+moons,styx,4,
+moons,thebe,4,
+moons,metis,4,
+moons,adrastea,4,
+moons,larissa,4,
+moons,galatea,4,
+moons,despina,4,
+moons,thalassa,4,
+moons,naiad,4,
+moons,helene,4,
+moons,calypso,4,
+moons,telesto,4,
+moons,cordelia,4,
+moons,ophelia,4,
+moons,dysnomia,4,
+moons,elara,5,
+moons,pasiphae,5,
+moons,sinope,5,
+moons,lysithea,5,
+moons,carme,5,
+moons,ananke,5,
+moons,leda,5,
+moons,callirrhoe,5,
+moons,themisto,5,
+moons,carpo,5,
+moons,valetudo,5,
+moons,ymir,5,
+moons,paaliaq,5,
+moons,siarnaq,5,
+moons,kiviuq,5,
+moons,ijiraq,5,
+moons,tarvos,5,
+moons,albiorix,5,
+moons,erriapus,5,
+moons,mundilfari,5,
+moons,skathi,5,
+moons,bestla,5,
+moons,fenrir,5,
+moons,narvi,5,
+moons,daphnis,5,
+moons,methone,5,
+moons,pallene,5,
+moons,anthe,5,
+moons,aegaeon,5,
+moons,polydeuces,5,
+moons,bianca,5,
+moons,cressida,5,
+moons,desdemona,5,
+moons,juliet,5,
+moons,portia,5,
+moons,rosalind,5,
+moons,belinda,5,
+moons,perdita,5,
+moons,mab,5,
+moons,cupid,5,
+moons,caliban,5,
+moons,sycorax,5,
+moons,prospero,5,
+moons,setebos,5,
+moons,stephano,5,
+moons,trinculo,5,
+moons,francisco,5,
+moons,margaret,5,
+moons,ferdinand,5,
+moons,halimede,5,
+moons,sao,5,
+moons,laomedeia,5,
+moons,psamathe,5,
+moons,neso,5,
+moons,hippocamp,5,
+moons,hiiaka,5,
+moons,namaka,5,
+moons,vanth,5,
+moons,weywot,5,
+#prompt,gemstones,Name a gemstone
+gemstones,diamond,1,
+gemstones,ruby,1,
+gemstones,emerald,1,
+gemstones,sapphire,1,
+gemstones,amethyst,1,
+gemstones,opal,2,
+gemstones,topaz,2,
+gemstones,pearl,2,
+gemstones,jade,2,
+gemstones,garnet,2,
+gemstones,aquamarine,2,
+gemstones,turquoise,2,
+gemstones,onyx,2,
+gemstones,quartz,2,
+gemstones,peridot,2,
+gemstones,citrine,2,
+gemstones,tanzanite,2,
+gemstones,alexandrite,3,
+gemstones,tourmaline,3,
+gemstones,moonstone,3,
+gemstones,lapis lazuli,3,lapis
+gemstones,amber,3,
+gemstones,obsidian,3,
+gemstones,agate,3,
+gemstones,jasper,3,
+gemstones,bloodstone,3,heliotrope
+gemstones,carnelian,3,cornelian
+gemstones,morganite,3,
+gemstones,zircon,3,
+gemstones,spinel,3,
+gemstones,tigers eye,3,tiger eye|tigereye
+gemstones,malachite,3,
+gemstones,rose quartz,3,
+gemstones,beryl,3,
+gemstones,coral,4,
+gemstones,smoky quartz,4,smokey quartz
+gemstones,aventurine,4,
+gemstones,labradorite,4,
+gemstones,sunstone,4,
+gemstones,rhodochrosite,4,
+gemstones,kunzite,4,
+gemstones,iolite,4,cordierite
+gemstones,chalcedony,4,
+gemstones,chrysoprase,4,
+gemstones,corundum,4,
+gemstones,hematite,4,haematite
+gemstones,jadeite,4,
+gemstones,chrysoberyl,4,
+gemstones,fluorite,4,fluorspar
+gemstones,sodalite,4,
+gemstones,amazonite,4,
+gemstones,jet,4,
+gemstones,moissanite,4,
+gemstones,ametrine,4,
+gemstones,fire opal,4,
+gemstones,sardonyx,4,
+gemstones,moldavite,4,
+gemstones,tsavorite,5,
+gemstones,demantoid,5,
+gemstones,andalusite,5,
+gemstones,benitoite,5,
+gemstones,painite,5,
+gemstones,taaffeite,5,
+gemstones,grandidierite,5,
+gemstones,nephrite,5,
+gemstones,sphene,5,titanite
+gemstones,kyanite,5,
+gemstones,rhodolite,5,
+gemstones,spessartine,5,spessartite
+gemstones,hiddenite,5,
+gemstones,heliodor,5,
+gemstones,goshenite,5,
+gemstones,red beryl,5,bixbite
+gemstones,paraiba,5,paraiba tourmaline
+gemstones,ammolite,5,
+gemstones,larimar,5,
+gemstones,charoite,5,
+gemstones,sugilite,5,
+gemstones,chrysocolla,5,
+gemstones,prehnite,5,
+gemstones,apatite,5,
+gemstones,diopside,5,
+gemstones,danburite,5,
+gemstones,euclase,5,
+gemstones,padparadscha,5,
+gemstones,rubellite,5,
+gemstones,hessonite,5,
+gemstones,pietersite,5,
+gemstones,unakite,5,
+gemstones,rhodonite,5,
+#prompt,phobias,Name a phobia
+phobias,arachnophobia,1,
+phobias,claustrophobia,1,
+phobias,acrophobia,1,
+phobias,agoraphobia,1,
+phobias,xenophobia,2,
+phobias,homophobia,2,
+phobias,trypophobia,2,
+phobias,coulrophobia,2,
+phobias,nyctophobia,2,achluophobia|scotophobia
+phobias,triskaidekaphobia,2,
+phobias,hippopotomonstrosesquippedaliophobia,2,sesquipedalophobia
+phobias,ophidiophobia,3,
+phobias,glossophobia,3,
+phobias,hemophobia,3,haemophobia|hematophobia
+phobias,mysophobia,3,germophobia|germaphobia
+phobias,technophobia,3,
+phobias,aquaphobia,3,hydrophobia
+phobias,cynophobia,3,
+phobias,emetophobia,3,
+phobias,thanatophobia,3,
+phobias,trypanophobia,3,belonephobia
+phobias,astraphobia,3,brontophobia|astrapophobia
+phobias,aerophobia,3,aviophobia|aviatophobia
+phobias,pyrophobia,3,
+phobias,nomophobia,3,
+phobias,thalassophobia,3,
+phobias,necrophobia,4,
+phobias,ailurophobia,4,felinophobia
+phobias,apiphobia,4,melissophobia
+phobias,entomophobia,4,insectophobia
+phobias,ornithophobia,4,
+phobias,musophobia,4,murophobia
+phobias,philophobia,4,
+phobias,gamophobia,4,
+phobias,gynophobia,4,
+phobias,androphobia,4,
+phobias,autophobia,4,monophobia
+phobias,dentophobia,4,odontophobia
+phobias,somniphobia,4,hypnophobia
+phobias,phobophobia,4,
+phobias,arachibutyrophobia,4,
+phobias,hexakosioihexekontahexaphobia,4,
+phobias,paraskevidekatriaphobia,4,friggatriskaidekaphobia
+phobias,megalophobia,4,
+phobias,phasmophobia,4,
+phobias,atychophobia,4,
+phobias,sociophobia,4,
+phobias,ochlophobia,4,demophobia|enochlophobia
+phobias,chronophobia,5,
+phobias,iatrophobia,5,
+phobias,nosophobia,5,
+phobias,haphephobia,5,
+phobias,anthophobia,5,
+phobias,pogonophobia,5,
+phobias,ergophobia,5,
+phobias,ablutophobia,5,
+phobias,alektorophobia,5,
+phobias,bibliophobia,5,
+phobias,cyberphobia,5,
+phobias,eisoptrophobia,5,catoptrophobia
+phobias,genuphobia,5,
+phobias,globophobia,5,
+phobias,katsaridaphobia,5,
+phobias,lachanophobia,5,
+phobias,mageirocophobia,5,
+phobias,nephophobia,5,
+phobias,omphalophobia,5,
+phobias,papyrophobia,5,
+phobias,pediophobia,5,
+phobias,selenophobia,5,
+phobias,submechanophobia,5,
+phobias,xanthophobia,5,
+phobias,chromophobia,5,chromatophobia
+phobias,ombrophobia,5,
+phobias,chionophobia,5,
+phobias,lilapsophobia,5,
+phobias,ranidaphobia,5,
+phobias,scoleciphobia,5,
+phobias,ichthyophobia,5,
+phobias,equinophobia,5,hippophobia
+phobias,batrachophobia,5,
+phobias,spectrophobia,5,
+phobias,demonophobia,5,
+phobias,decidophobia,5,
+#prompt,languages,Name a language people speak
+languages,english,1,
+languages,spanish,1,castilian|espanol
+languages,french,1,
+languages,mandarin,1,mandarin chinese|chinese
+languages,german,1,
+languages,japanese,2,
+languages,italian,2,
+languages,russian,2,
+languages,portuguese,2,brazilian portuguese
+languages,arabic,2,
+languages,korean,2,
+languages,hindi,2,
+languages,cantonese,2,
+languages,greek,2,
+languages,dutch,2,flemish
+languages,swedish,2,
+languages,hebrew,2,
+languages,latin,2,
+languages,turkish,2,
+languages,polish,2,
+languages,vietnamese,2,
+languages,tagalog,2,filipino
+languages,swahili,2,kiswahili
+languages,urdu,3,
+languages,bengali,3,bangla
+languages,punjabi,3,panjabi
+languages,persian,3,farsi
+languages,thai,3,
+languages,indonesian,3,bahasa indonesia
+languages,malay,3,bahasa melayu
+languages,norwegian,3,
+languages,danish,3,
+languages,finnish,3,
+languages,czech,3,
+languages,hungarian,3,magyar
+languages,ukrainian,3,
+languages,romanian,3,
+languages,irish,3,irish gaelic|gaeilge
+languages,welsh,3,
+languages,tamil,3,
+languages,telugu,3,
+languages,marathi,3,
+languages,hawaiian,3,
+languages,navajo,3,dine
+languages,yiddish,3,
+languages,haitian creole,3,creole|kreyol
+languages,afrikaans,3,
+languages,zulu,3,isizulu
+languages,american sign language,3,asl|sign language
+languages,gujarati,4,
+languages,cherokee,4,
+languages,esperanto,4,
+languages,sanskrit,4,
+languages,amharic,4,
+languages,somali,4,
+languages,pashto,4,pashtu
+languages,kurdish,4,
+languages,armenian,4,
+languages,georgian,4,
+languages,croatian,4,
+languages,serbian,4,serbo croatian
+languages,slovak,4,
+languages,slovenian,4,slovene
+languages,bulgarian,4,
+languages,albanian,4,
+languages,lithuanian,4,
+languages,latvian,4,
+languages,estonian,4,
+languages,icelandic,4,
+languages,basque,4,euskara
+languages,catalan,4,
+languages,belarusian,4,
+languages,macedonian,4,
+languages,nepali,4,
+languages,sinhala,4,sinhalese
+languages,burmese,4,myanmar
+languages,khmer,4,cambodian
+languages,lao,4,laotian
+languages,mongolian,4,
+languages,tibetan,4,
+languages,hmong,4,
+languages,hokkien,4,taiwanese|min nan|minnan
+languages,maori,4,te reo maori
+languages,samoan,4,
+languages,yoruba,4,
+languages,igbo,4,
+languages,hausa,4,
+languages,xhosa,4,isixhosa
+languages,quechua,4,
+languages,nahuatl,4,
+languages,scottish gaelic,4,scots gaelic|gaelic
+languages,bosnian,5,
+languages,galician,5,
+languages,maltese,5,
+languages,luxembourgish,5,
+languages,breton,5,
+languages,cornish,5,
+languages,manx,5,
+languages,faroese,5,
+languages,frisian,5,
+languages,sardinian,5,
+languages,romansh,5,
+languages,occitan,5,
+languages,uzbek,5,
+languages,kazakh,5,
+languages,kyrgyz,5,kirghiz
+languages,tajik,5,
+languages,turkmen,5,
+languages,azerbaijani,5,azeri
+languages,uyghur,5,uighur
+languages,kannada,5,
+languages,malayalam,5,
+languages,odia,5,oriya
+languages,assamese,5,
+languages,sindhi,5,
+languages,shanghainese,5,wu
+languages,hakka,5,
+languages,javanese,5,
+languages,sundanese,5,
+languages,cebuano,5,bisaya|visayan
+languages,ilocano,5,
+languages,tongan,5,
+languages,fijian,5,
+languages,shona,5,
+languages,wolof,5,
+languages,tigrinya,5,
+languages,oromo,5,
+languages,kinyarwanda,5,
+languages,lingala,5,
+languages,twi,5,akan
+languages,guarani,5,
+languages,aymara,5,
+languages,inuktitut,5,
+languages,cree,5,
+languages,ojibwe,5,ojibwa|anishinaabemowin
+languages,lakota,5,
+languages,scots,5,
+languages,greenlandic,5,kalaallisut
+languages,malagasy,5,
+languages,chechen,5,
+languages,tatar,5,
+#prompt,colors,Name a color
+colors,red,1,
+colors,blue,1,
+colors,green,1,
+colors,yellow,1,
+colors,orange,1,
+colors,purple,1,
+colors,black,1,
+colors,white,1,
+colors,pink,1,
+colors,brown,2,
+colors,gray,2,grey
+colors,violet,2,
+colors,indigo,2,
+colors,magenta,2,
+colors,cyan,2,
+colors,turquoise,2,
+colors,teal,2,
+colors,maroon,2,
+colors,navy,2,navy blue
+colors,beige,2,
+colors,gold,2,golden
+colors,silver,2,
+colors,lavender,2,
+colors,tan,2,
+colors,lime,2,lime green
+colors,crimson,2,
+colors,aqua,2,
+colors,burgundy,2,
+colors,coral,2,
+colors,peach,2,
+colors,scarlet,3,
+colors,mauve,3,
+colors,lilac,3,
+colors,olive,3,olive green
+colors,khaki,3,
+colors,ivory,3,
+colors,cream,3,
+colors,salmon,3,
+colors,fuchsia,3,
+colors,cerulean,3,
+colors,azure,3,
+colors,chartreuse,3,
+colors,vermilion,3,vermillion
+colors,periwinkle,3,
+colors,amber,3,
+colors,mint,3,mint green
+colors,plum,3,
+colors,rose,3,
+colors,ruby,3,
+colors,emerald,3,emerald green
+colors,charcoal,3,
+colors,ochre,3,ocher
+colors,sienna,3,burnt sienna|raw sienna
+colors,taupe,3,
+colors,mustard,3,
+colors,cobalt,3,cobalt blue
+colors,sky blue,3,
+colors,royal blue,3,
+colors,baby blue,3,
+colors,forest green,3,
+colors,hot pink,3,
+colors,copper,3,
+colors,bronze,3,
+colors,rust,3,
+colors,sage,3,sage green
+colors,off white,3,
+colors,puce,4,
+colors,umber,4,burnt umber|raw umber
+colors,ultramarine,4,
+colors,jade,4,
+colors,carmine,4,
+colors,cerise,4,
+colors,celadon,4,
+colors,sepia,4,
+colors,ecru,4,
+colors,aubergine,4,eggplant
+colors,mahogany,4,
+colors,chestnut,4,
+colors,auburn,4,
+colors,terracotta,4,terra cotta
+colors,saffron,4,
+colors,marigold,4,
+colors,goldenrod,4,
+colors,canary,4,canary yellow
+colors,viridian,4,
+colors,cornflower,4,cornflower blue
+colors,prussian blue,4,
+colors,midnight blue,4,
+colors,aquamarine,4,
+colors,seafoam,4,seafoam green|sea green
+colors,hunter green,4,
+colors,kelly green,4,
+colors,orchid,4,
+colors,blush,4,
+colors,brick red,4,brick
+colors,apricot,4,
+colors,tangerine,4,
+colors,champagne,4,
+colors,fawn,4,
+colors,slate,4,slate gray|slate grey
+colors,gunmetal,4,gunmetal gray|gunmetal grey
+colors,ebony,4,
+colors,alabaster,4,
+colors,eggshell,4,
+colors,gamboge,5,
+colors,oxblood,5,
+colors,verdigris,5,
+colors,celeste,5,
+colors,heliotrope,5,
+colors,amaranth,5,
+colors,byzantium,5,
+colors,thistle,5,
+colors,wisteria,5,
+colors,alizarin,5,alizarin crimson
+colors,madder,5,rose madder
+colors,isabelline,5,
+colors,zaffre,5,
+colors,smalt,5,
+colors,fulvous,5,
+colors,glaucous,5,
+colors,coquelicot,5,
+colors,falu red,5,falu
+colors,feldgrau,5,
+colors,bistre,5,bister
+colors,caput mortuum,5,
+colors,tyrian purple,5,tyrian
+colors,paynes grey,5,paynes gray
+colors,phthalo blue,5,phthalocyanine blue
+colors,pewter,5,
+colors,buff,5,
+colors,persimmon,5,
+colors,cinnabar,5,
+#prompt,pixar_movies,Name a Pixar movie
+pixar_movies,toy story,1,
+pixar_movies,finding nemo,1,
+pixar_movies,cars,1,
+pixar_movies,up,1,
+pixar_movies,monsters inc,1,monsters incorporated
+pixar_movies,incredibles,1,
+pixar_movies,inside out,1,
+pixar_movies,toy story 2,2,toy story two
+pixar_movies,toy story 3,2,toy story three
+pixar_movies,wall e,2,walle
+pixar_movies,ratatouille,2,
+pixar_movies,coco,2,
+pixar_movies,a bugs life,2,bugs life
+pixar_movies,brave,2,
+pixar_movies,monsters university,2,
+pixar_movies,finding dory,2,
+pixar_movies,toy story 4,3,toy story four
+pixar_movies,incredibles 2,3,incredibles two
+pixar_movies,inside out 2,3,inside out two
+pixar_movies,cars 2,3,cars two
+pixar_movies,soul,3,
+pixar_movies,luca,3,
+pixar_movies,turning red,3,
+pixar_movies,cars 3,4,cars three
+pixar_movies,onward,4,
+pixar_movies,lightyear,4,
+pixar_movies,elemental,4,
+pixar_movies,good dinosaur,5,
+pixar_movies,elio,5,
+#prompt,disney_animated_movies,Name a Disney animated movie
+disney_animated_movies,frozen,1,
+disney_animated_movies,lion king,1,
+disney_animated_movies,moana,1,
+disney_animated_movies,aladdin,1,
+disney_animated_movies,tangled,1,
+disney_animated_movies,little mermaid,1,
+disney_animated_movies,beauty and the beast,1,
+disney_animated_movies,zootopia,1,
+disney_animated_movies,cinderella,2,
+disney_animated_movies,mulan,2,
+disney_animated_movies,encanto,2,
+disney_animated_movies,frozen 2,2,frozen ii|frozen two
+disney_animated_movies,snow white and the seven dwarfs,2,snow white
+disney_animated_movies,lilo and stitch,2,
+disney_animated_movies,big hero 6,2,big hero six
+disney_animated_movies,wreck it ralph,2,
+disney_animated_movies,princess and the frog,2,
+disney_animated_movies,sleeping beauty,2,
+disney_animated_movies,peter pan,2,
+disney_animated_movies,pinocchio,2,
+disney_animated_movies,bambi,2,
+disney_animated_movies,dumbo,2,
+disney_animated_movies,hercules,2,
+disney_animated_movies,tarzan,2,
+disney_animated_movies,jungle book,2,
+disney_animated_movies,alice in wonderland,2,
+disney_animated_movies,pocahontas,2,
+disney_animated_movies,one hundred and one dalmatians,3,101 dalmatians|one hundred one dalmatians
+disney_animated_movies,lady and the tramp,3,
+disney_animated_movies,emperors new groove,3,
+disney_animated_movies,hunchback of notre dame,3,hunchback
+disney_animated_movies,robin hood,3,
+disney_animated_movies,aristocats,3,
+disney_animated_movies,fantasia,3,
+disney_animated_movies,bolt,3,
+disney_animated_movies,ralph breaks the internet,3,wreck it ralph 2|wreck it ralph two
+disney_animated_movies,moana 2,3,moana two
+disney_animated_movies,raya and the last dragon,3,raya
+disney_animated_movies,zootopia 2,3,zootopia two
+disney_animated_movies,meet the robinsons,3,
+disney_animated_movies,chicken little,3,
+disney_animated_movies,atlantis the lost empire,3,atlantis
+disney_animated_movies,treasure planet,3,
+disney_animated_movies,brother bear,3,
+disney_animated_movies,sword in the stone,3,
+disney_animated_movies,fox and the hound,4,
+disney_animated_movies,rescuers,4,
+disney_animated_movies,great mouse detective,4,
+disney_animated_movies,oliver and company,4,
+disney_animated_movies,home on the range,4,
+disney_animated_movies,dinosaur,4,
+disney_animated_movies,wish,4,
+disney_animated_movies,strange world,4,
+disney_animated_movies,fantasia 2000,4,fantasia two thousand
+disney_animated_movies,black cauldron,4,
+disney_animated_movies,many adventures of winnie the pooh,4,
+disney_animated_movies,winnie the pooh,4,
+disney_animated_movies,rescuers down under,4,
+disney_animated_movies,saludos amigos,5,
+disney_animated_movies,three caballeros,5,
+disney_animated_movies,make mine music,5,
+disney_animated_movies,fun and fancy free,5,
+disney_animated_movies,melody time,5,
+disney_animated_movies,adventures of ichabod and mr toad,5,ichabod and mr toad
+#prompt,shakespeare_plays,Name a Shakespeare play
+shakespeare_plays,hamlet,1,
+shakespeare_plays,macbeth,1,
+shakespeare_plays,romeo and juliet,1,
+shakespeare_plays,othello,1,
+shakespeare_plays,king lear,1,lear
+shakespeare_plays,a midsummer nights dream,1,midsummer nights dream|midsummer
+shakespeare_plays,julius caesar,2,
+shakespeare_plays,tempest,2,
+shakespeare_plays,merchant of venice,2,
+shakespeare_plays,much ado about nothing,2,much ado
+shakespeare_plays,twelfth night,2,
+shakespeare_plays,taming of the shrew,2,
+shakespeare_plays,as you like it,3,
+shakespeare_plays,richard iii,3,richard 3|richard the third
+shakespeare_plays,henry v,3,henry 5|henry the fifth
+shakespeare_plays,antony and cleopatra,3,
+shakespeare_plays,comedy of errors,3,
+shakespeare_plays,winters tale,3,
+shakespeare_plays,merry wives of windsor,3,merry wives
+shakespeare_plays,richard ii,3,richard 2|richard the second
+shakespeare_plays,measure for measure,3,
+shakespeare_plays,henry iv part 1,4,henry iv part one|henry 4 part 1|1 henry iv|henry the fourth part 1
+shakespeare_plays,henry iv part 2,4,henry iv part two|henry 4 part 2|2 henry iv|henry the fourth part 2
+shakespeare_plays,coriolanus,4,
+shakespeare_plays,titus andronicus,4,titus
+shakespeare_plays,alls well that ends well,4,alls well
+shakespeare_plays,troilus and cressida,4,
+shakespeare_plays,two gentlemen of verona,4,
+shakespeare_plays,loves labours lost,4,loves labors lost
+shakespeare_plays,cymbeline,4,
+shakespeare_plays,pericles,4,pericles prince of tyre
+shakespeare_plays,timon of athens,4,
+shakespeare_plays,henry viii,4,henry 8|henry the eighth
+shakespeare_plays,henry vi part 1,5,henry vi part one|henry 6 part 1|1 henry vi|henry the sixth part 1
+shakespeare_plays,henry vi part 2,5,henry vi part two|henry 6 part 2|2 henry vi|henry the sixth part 2
+shakespeare_plays,henry vi part 3,5,henry vi part three|henry 6 part 3|3 henry vi|henry the sixth part 3
+shakespeare_plays,king john,5,
+shakespeare_plays,two noble kinsmen,5,
+shakespeare_plays,edward iii,5,edward 3|edward the third
+#prompt,greek_gods,Name a Greek god or goddess
+greek_gods,zeus,1,
+greek_gods,poseidon,1,
+greek_gods,hades,1,
+greek_gods,athena,1,athene
+greek_gods,aphrodite,1,
+greek_gods,apollo,1,
+greek_gods,ares,1,
+greek_gods,hera,2,
+greek_gods,hermes,2,
+greek_gods,artemis,2,
+greek_gods,dionysus,2,dionysos
+greek_gods,hephaestus,2,hephaistos
+greek_gods,demeter,2,
+greek_gods,persephone,2,kore
+greek_gods,kronos,2,cronus|cronos
+greek_gods,eros,2,
+greek_gods,hestia,3,
+greek_gods,gaia,3,gaea
+greek_gods,uranus,3,ouranos
+greek_gods,rhea,3,
+greek_gods,atlas,3,
+greek_gods,prometheus,3,
+greek_gods,hecate,3,hekate
+greek_gods,nemesis,3,
+greek_gods,pan,3,
+greek_gods,helios,3,
+greek_gods,selene,3,
+greek_gods,eos,3,
+greek_gods,hypnos,3,
+greek_gods,thanatos,3,
+greek_gods,nyx,3,
+greek_gods,chaos,3,
+greek_gods,iris,3,
+greek_gods,hebe,3,
+greek_gods,nike,3,
+greek_gods,heracles,3,hercules|herakles
+greek_gods,tartarus,4,
+greek_gods,erebus,4,
+greek_gods,oceanus,4,okeanos
+greek_gods,tethys,4,
+greek_gods,hyperion,4,
+greek_gods,themis,4,
+greek_gods,mnemosyne,4,
+greek_gods,epimetheus,4,
+greek_gods,phoebe,4,
+greek_gods,coeus,4,
+greek_gods,crius,4,
+greek_gods,iapetus,4,
+greek_gods,theia,4,
+greek_gods,morpheus,4,
+greek_gods,boreas,4,
+greek_gods,zephyrus,4,zephyr
+greek_gods,notus,4,
+greek_gods,eurus,4,
+greek_gods,triton,4,
+greek_gods,amphitrite,4,
+greek_gods,nereus,4,
+greek_gods,proteus,4,
+greek_gods,eris,4,
+greek_gods,asclepius,4,asklepios
+greek_gods,aether,4,
+greek_gods,hemera,4,
+greek_gods,pontus,4,
+greek_gods,metis,4,
+greek_gods,harmonia,4,
+greek_gods,tyche,4,
+greek_gods,psyche,4,
+greek_gods,leto,4,
+greek_gods,maia,4,
+greek_gods,ananke,5,
+greek_gods,chronos,5,
+greek_gods,phanes,5,
+greek_gods,enyo,5,
+greek_gods,deimos,5,
+greek_gods,phobos,5,
+greek_gods,aeolus,5,
+greek_gods,priapus,5,
+greek_gods,hymenaeus,5,hymen
+greek_gods,styx,5,
+greek_gods,dione,5,
+greek_gods,asteria,5,
+greek_gods,perses,5,
+greek_gods,pallas,5,
+greek_gods,astraeus,5,
+greek_gods,eileithyia,5,
+greek_gods,dike,5,
+greek_gods,eirene,5,
+greek_gods,calliope,5,
+greek_gods,clio,5,
+greek_gods,hesperus,5,
+greek_gods,plutus,5,ploutos
+greek_gods,achelous,5,
+greek_gods,thalassa,5,
+greek_gods,clotho,5,
+greek_gods,lachesis,5,
+greek_gods,atropos,5,
+#prompt,board_games,Name a board game
+board_games,monopoly,1,
+board_games,chess,1,
+board_games,scrabble,1,
+board_games,clue,1,cluedo
+board_games,checkers,1,draughts
+board_games,sorry,1,
+board_games,candy land,1,candyland
+board_games,game of life,1,life
+board_games,risk,2,
+board_games,battleship,2,
+board_games,connect four,2,connect 4
+board_games,catan,2,settlers of catan|settlers
+board_games,trouble,2,
+board_games,operation,2,
+board_games,guess who,2,
+board_games,chutes and ladders,2,snakes and ladders
+board_games,mouse trap,2,mousetrap
+board_games,trivial pursuit,2,
+board_games,backgammon,2,
+board_games,pictionary,2,
+board_games,stratego,3,
+board_games,go,3,baduk|weiqi
+board_games,ticket to ride,3,
+board_games,pandemic,3,
+board_games,mancala,3,
+board_games,parcheesi,3,
+board_games,othello,3,reversi
+board_games,chinese checkers,3,
+board_games,hungry hungry hippos,3,hungry hippos
+board_games,cranium,3,
+board_games,mastermind,3,
+board_games,codenames,3,
+board_games,carcassonne,3,
+board_games,axis and allies,3,
+board_games,azul,4,
+board_games,wingspan,4,
+board_games,splendor,4,
+board_games,terraforming mars,4,
+board_games,gloomhaven,4,
+board_games,agricola,4,
+board_games,puerto rico,4,
+board_games,power grid,4,
+board_games,small world,4,
+board_games,king of tokyo,4,
+board_games,dixit,4,
+board_games,betrayal at house on the hill,4,betrayal
+board_games,scotland yard,4,
+board_games,diplomacy,4,
+board_games,acquire,4,
+board_games,sequence,4,
+board_games,rummikub,4,
+board_games,qwirkle,4,
+board_games,blokus,4,
+board_games,labyrinth,4,
+board_games,payday,4,pay day
+board_games,ludo,4,
+board_games,balderdash,4,
+board_games,kingdomino,4,
+board_games,scythe,4,
+board_games,root,4,
+board_games,arkham horror,4,
+board_games,heroquest,4,hero quest
+board_games,talisman,4,
+board_games,twilight imperium,5,
+board_games,tigris and euphrates,5,
+board_games,el grande,5,
+board_games,brass birmingham,5,brass
+board_games,through the ages,5,
+board_games,terra mystica,5,
+board_games,caylus,5,
+board_games,shogi,5,japanese chess
+board_games,xiangqi,5,chinese chess
+board_games,hnefatafl,5,tafl
+board_games,senet,5,
+board_games,nine mens morris,5,mill
+board_games,pachisi,5,
+board_games,mansions of madness,5,
+board_games,spirit island,5,
+board_games,everdell,5,
+board_games,cascadia,5,
+board_games,viticulture,5,
+board_games,concordia,5,
+board_games,eldritch horror,5,
+board_games,war of the ring,5,
+board_games,fireball island,5,
+board_games,landlords game,5,
+board_games,patchwork,5,
+board_games,stone age,5,
+board_games,lords of waterdeep,5,
+board_games,13 dead end drive,5,thirteen dead end drive
+board_games,careers,5,
+board_games,crokinole,5,
+#prompt,harry_potter_characters,Name a Harry Potter character
+harry_potter_characters,harry potter,1,harry|potter
+harry_potter_characters,hermione granger,1,hermione|granger
+harry_potter_characters,ron weasley,1,ron|ronald weasley
+harry_potter_characters,albus dumbledore,1,dumbledore|professor dumbledore
+harry_potter_characters,lord voldemort,1,voldemort|tom riddle|tom marvolo riddle|he who must not be named|you know who
+harry_potter_characters,severus snape,1,snape|professor snape
+harry_potter_characters,draco malfoy,1,draco|malfoy
+harry_potter_characters,rubeus hagrid,1,hagrid
+harry_potter_characters,sirius black,2,sirius|padfoot
+harry_potter_characters,neville longbottom,2,neville
+harry_potter_characters,ginny weasley,2,ginny|ginevra weasley
+harry_potter_characters,fred weasley,2,fred
+harry_potter_characters,george weasley,2,george
+harry_potter_characters,luna lovegood,2,luna
+harry_potter_characters,minerva mcgonagall,2,mcgonagall|professor mcgonagall
+harry_potter_characters,dobby,2,
+harry_potter_characters,bellatrix lestrange,2,bellatrix
+harry_potter_characters,remus lupin,2,lupin|remus|moony
+harry_potter_characters,lucius malfoy,2,lucius
+harry_potter_characters,cedric diggory,2,cedric
+harry_potter_characters,dolores umbridge,2,umbridge
+harry_potter_characters,hedwig,2,
+harry_potter_characters,peter pettigrew,2,wormtail|pettigrew|scabbers
+harry_potter_characters,arthur weasley,3,arthur
+harry_potter_characters,molly weasley,3,molly
+harry_potter_characters,percy weasley,3,percy
+harry_potter_characters,bill weasley,3,
+harry_potter_characters,charlie weasley,3,
+harry_potter_characters,cho chang,3,cho
+harry_potter_characters,dudley dursley,3,dudley
+harry_potter_characters,vernon dursley,3,uncle vernon
+harry_potter_characters,petunia dursley,3,aunt petunia
+harry_potter_characters,gilderoy lockhart,3,lockhart
+harry_potter_characters,alastor moody,3,mad eye moody|moody|mad eye
+harry_potter_characters,nymphadora tonks,3,tonks
+harry_potter_characters,kingsley shacklebolt,3,kingsley
+harry_potter_characters,argus filch,3,filch
+harry_potter_characters,sybill trelawney,3,trelawney|professor trelawney
+harry_potter_characters,filius flitwick,3,flitwick|professor flitwick
+harry_potter_characters,pomona sprout,3,sprout|professor sprout
+harry_potter_characters,horace slughorn,3,slughorn
+harry_potter_characters,quirinus quirrell,3,quirrell|professor quirrell
+harry_potter_characters,kreacher,3,
+harry_potter_characters,buckbeak,3,witherwings
+harry_potter_characters,fawkes,3,
+harry_potter_characters,crookshanks,3,
+harry_potter_characters,nagini,3,
+harry_potter_characters,james potter,3,james|prongs
+harry_potter_characters,lily potter,3,lily evans|lily
+harry_potter_characters,cornelius fudge,3,fudge
+harry_potter_characters,seamus finnigan,3,seamus
+harry_potter_characters,dean thomas,3,
+harry_potter_characters,oliver wood,3,
+harry_potter_characters,fleur delacour,3,fleur
+harry_potter_characters,viktor krum,3,krum|victor krum
+harry_potter_characters,moaning myrtle,3,myrtle
+harry_potter_characters,nearly headless nick,3,sir nicholas
+harry_potter_characters,gellert grindelwald,3,grindelwald
+harry_potter_characters,fluffy,3,
+harry_potter_characters,lavender brown,4,lavender
+harry_potter_characters,parvati patil,4,parvati
+harry_potter_characters,padma patil,4,padma
+harry_potter_characters,vincent crabbe,4,crabbe
+harry_potter_characters,gregory goyle,4,goyle
+harry_potter_characters,pansy parkinson,4,pansy
+harry_potter_characters,katie bell,4,
+harry_potter_characters,angelina johnson,4,
+harry_potter_characters,lee jordan,4,
+harry_potter_characters,ernie macmillan,4,
+harry_potter_characters,justin finch fletchley,4,
+harry_potter_characters,colin creevey,4,
+harry_potter_characters,rolanda hooch,4,madam hooch
+harry_potter_characters,poppy pomfrey,4,madam pomfrey
+harry_potter_characters,olympe maxime,4,madame maxime
+harry_potter_characters,igor karkaroff,4,karkaroff
+harry_potter_characters,barty crouch jr,4,bartemius crouch jr|barty crouch junior
+harry_potter_characters,barty crouch sr,4,bartemius crouch sr|barty crouch senior
+harry_potter_characters,garrick ollivander,4,ollivander|mr ollivander
+harry_potter_characters,rita skeeter,4,
+harry_potter_characters,griphook,4,
+harry_potter_characters,aragog,4,
+harry_potter_characters,norbert,4,norberta
+harry_potter_characters,fenrir greyback,4,greyback
+harry_potter_characters,xenophilius lovegood,4,xenophilius
+harry_potter_characters,narcissa malfoy,4,narcissa
+harry_potter_characters,scorpius malfoy,4,scorpius
+harry_potter_characters,albus severus potter,4,albus potter
+harry_potter_characters,teddy lupin,4,
+harry_potter_characters,regulus black,4,regulus
+harry_potter_characters,mundungus fletcher,4,mundungus
+harry_potter_characters,firenze,4,
+harry_potter_characters,grawp,4,
+harry_potter_characters,fat lady,4,
+harry_potter_characters,peeves,4,
+harry_potter_characters,bloody baron,4,
+harry_potter_characters,cuthbert binns,4,professor binns
+harry_potter_characters,rufus scrimgeour,4,scrimgeour
+harry_potter_characters,cormac mclaggen,4,
+harry_potter_characters,winky,4,
+harry_potter_characters,arabella figg,4,mrs figg
+harry_potter_characters,ludo bagman,4,
+harry_potter_characters,marge dursley,4,aunt marge
+harry_potter_characters,stan shunpike,4,
+harry_potter_characters,madam rosmerta,4,rosmerta
+harry_potter_characters,nicolas flamel,4,nicholas flamel
+harry_potter_characters,godric gryffindor,4,
+harry_potter_characters,helga hufflepuff,4,
+harry_potter_characters,rowena ravenclaw,4,
+harry_potter_characters,salazar slytherin,4,
+harry_potter_characters,trevor,4,
+harry_potter_characters,mrs norris,4,
+harry_potter_characters,newt scamander,4,
+harry_potter_characters,dennis creevey,5,
+harry_potter_characters,frank longbottom,5,
+harry_potter_characters,alice longbottom,5,
+harry_potter_characters,augusta longbottom,5,
+harry_potter_characters,rose weasley,5,
+harry_potter_characters,hugo weasley,5,
+harry_potter_characters,james sirius potter,5,
+harry_potter_characters,lily luna potter,5,
+harry_potter_characters,gregorovitch,5,
+harry_potter_characters,aurora sinistra,5,
+harry_potter_characters,septima vector,5,
+harry_potter_characters,charity burbage,5,
+harry_potter_characters,bathilda bagshot,5,
+harry_potter_characters,pius thicknesse,5,
+harry_potter_characters,amelia bones,5,
+harry_potter_characters,susan bones,5,
+harry_potter_characters,zacharias smith,5,
+harry_potter_characters,marcus flint,5,
+harry_potter_characters,romilda vane,5,
+harry_potter_characters,hokey,5,
+harry_potter_characters,dedalus diggle,5,
+harry_potter_characters,elphias doge,5,
+harry_potter_characters,mafalda hopkirk,5,
+harry_potter_characters,bertha jorkins,5,
+harry_potter_characters,frank bryce,5,
+harry_potter_characters,tom riddle sr,5,
+harry_potter_characters,merope gaunt,5,
+harry_potter_characters,marvolo gaunt,5,
+harry_potter_characters,morfin gaunt,5,
+harry_potter_characters,ariana dumbledore,5,
+harry_potter_characters,kendra dumbledore,5,
+harry_potter_characters,aberforth dumbledore,5,aberforth
+harry_potter_characters,ignotus peverell,5,
+harry_potter_characters,antioch peverell,5,
+harry_potter_characters,cadmus peverell,5,
+harry_potter_characters,ronan,5,
+harry_potter_characters,bane,5,
+harry_potter_characters,ernie prang,5,
+harry_potter_characters,madam malkin,5,
+harry_potter_characters,scabior,5,
+harry_potter_characters,alecto carrow,5,
+harry_potter_characters,amycus carrow,5,
+harry_potter_characters,antonin dolohov,5,dolohov
+harry_potter_characters,rodolphus lestrange,5,
+harry_potter_characters,augustus rookwood,5,
+harry_potter_characters,corban yaxley,5,yaxley
+harry_potter_characters,walden macnair,5,
+harry_potter_characters,marietta edgecombe,5,
+harry_potter_characters,michael corner,5,
+harry_potter_characters,terry boot,5,
+harry_potter_characters,hestia jones,5,
+harry_potter_characters,emmeline vance,5,
+harry_potter_characters,sturgis podmore,5,
+harry_potter_characters,helena ravenclaw,5,grey lady|gray lady
+harry_potter_characters,fat friar,5,
+harry_potter_characters,errol,5,
+harry_potter_characters,pigwidgeon,5,pig
+harry_potter_characters,hannah abbott,5,
+#prompt,nba_teams,Name an NBA team
+nba_teams,lakers,1,los angeles lakers|la lakers
+nba_teams,celtics,1,boston celtics
+nba_teams,warriors,1,golden state warriors
+nba_teams,bulls,1,chicago bulls
+nba_teams,knicks,1,new york knicks|ny knicks|knickerbockers
+nba_teams,heat,1,miami heat
+nba_teams,cavaliers,2,cleveland cavaliers|cavs|cleveland cavs
+nba_teams,nets,2,brooklyn nets
+nba_teams,spurs,2,san antonio spurs
+nba_teams,rockets,2,houston rockets
+nba_teams,76ers,2,philadelphia 76ers|sixers|philadelphia sixers|seventy sixers
+nba_teams,mavericks,2,dallas mavericks|mavs|dallas mavs
+nba_teams,clippers,2,los angeles clippers|la clippers
+nba_teams,suns,2,phoenix suns
+nba_teams,bucks,2,milwaukee bucks
+nba_teams,nuggets,3,denver nuggets
+nba_teams,thunder,3,oklahoma city thunder|okc thunder
+nba_teams,raptors,3,toronto raptors
+nba_teams,pistons,3,detroit pistons
+nba_teams,magic,3,orlando magic
+nba_teams,trail blazers,3,portland trail blazers|blazers|trailblazers|portland trailblazers
+nba_teams,jazz,3,utah jazz
+nba_teams,kings,3,sacramento kings
+nba_teams,hawks,3,atlanta hawks
+nba_teams,timberwolves,4,minnesota timberwolves|wolves|t wolves
+nba_teams,pacers,4,indiana pacers
+nba_teams,wizards,4,washington wizards
+nba_teams,hornets,4,charlotte hornets
+nba_teams,grizzlies,5,memphis grizzlies
+nba_teams,pelicans,5,new orleans pelicans
+#prompt,nfl_teams,Name an NFL team
+nfl_teams,cowboys,1,dallas cowboys
+nfl_teams,patriots,1,new england patriots|pats
+nfl_teams,packers,1,green bay packers
+nfl_teams,chiefs,1,kansas city chiefs|kc chiefs
+nfl_teams,eagles,1,philadelphia eagles
+nfl_teams,steelers,1,pittsburgh steelers
+nfl_teams,49ers,2,san francisco 49ers|niners|forty niners|san francisco forty niners
+nfl_teams,giants,2,new york giants|ny giants
+nfl_teams,bears,2,chicago bears
+nfl_teams,raiders,2,las vegas raiders|oakland raiders
+nfl_teams,broncos,2,denver broncos
+nfl_teams,dolphins,2,miami dolphins
+nfl_teams,seahawks,2,seattle seahawks
+nfl_teams,ravens,2,baltimore ravens
+nfl_teams,bills,3,buffalo bills
+nfl_teams,lions,3,detroit lions
+nfl_teams,saints,3,new orleans saints
+nfl_teams,rams,3,los angeles rams|la rams|st louis rams
+nfl_teams,vikings,3,minnesota vikings
+nfl_teams,chargers,3,los angeles chargers|la chargers|san diego chargers
+nfl_teams,jets,3,new york jets|ny jets
+nfl_teams,buccaneers,3,tampa bay buccaneers|bucs|tampa bay bucs
+nfl_teams,bengals,3,cincinnati bengals
+nfl_teams,colts,3,indianapolis colts
+nfl_teams,falcons,3,atlanta falcons
+nfl_teams,browns,3,cleveland browns
+nfl_teams,cardinals,4,arizona cardinals
+nfl_teams,panthers,4,carolina panthers
+nfl_teams,texans,4,houston texans
+nfl_teams,commanders,4,washington commanders|washington football team
+nfl_teams,jaguars,5,jacksonville jaguars|jags
+nfl_teams,titans,5,tennessee titans
+#prompt,us_presidents,Name a US president
+us_presidents,george washington,1,washington
+us_presidents,abraham lincoln,1,lincoln|abe lincoln
+us_presidents,barack obama,1,obama
+us_presidents,donald trump,1,trump
+us_presidents,joe biden,1,biden|joseph biden
+us_presidents,thomas jefferson,1,jefferson
+us_presidents,john f kennedy,1,jfk|kennedy|john kennedy
+us_presidents,franklin d roosevelt,2,franklin roosevelt|fdr|franklin delano roosevelt
+us_presidents,theodore roosevelt,2,teddy roosevelt|teddy
+us_presidents,ronald reagan,2,reagan
+us_presidents,bill clinton,2,clinton|william clinton
+us_presidents,george w bush,2,dubya|bush jr|george bush jr|george bush junior|w bush
+us_presidents,richard nixon,2,nixon
+us_presidents,john adams,2,
+us_presidents,jimmy carter,2,carter
+us_presidents,george h w bush,2,george hw bush|bush sr|george bush sr|george bush senior|bush senior
+us_presidents,andrew jackson,3,jackson
+us_presidents,james madison,3,madison
+us_presidents,ulysses s grant,3,ulysses grant|grant
+us_presidents,dwight d eisenhower,3,dwight eisenhower|eisenhower|ike
+us_presidents,harry s truman,3,harry truman|truman
+us_presidents,lyndon b johnson,3,lyndon johnson|lbj
+us_presidents,woodrow wilson,3,wilson
+us_presidents,gerald ford,3,ford
+us_presidents,james monroe,3,monroe
+us_presidents,herbert hoover,3,hoover
+us_presidents,john quincy adams,4,jqa
+us_presidents,william howard taft,4,william taft|taft
+us_presidents,william mckinley,4,mckinley
+us_presidents,calvin coolidge,4,coolidge
+us_presidents,james k polk,4,james polk|polk
+us_presidents,grover cleveland,4,cleveland
+us_presidents,andrew johnson,4,
+us_presidents,martin van buren,4,van buren
+us_presidents,james garfield,4,james a garfield|garfield
+us_presidents,john tyler,5,tyler
+us_presidents,zachary taylor,5,taylor
+us_presidents,millard fillmore,5,fillmore
+us_presidents,franklin pierce,5,pierce
+us_presidents,james buchanan,5,buchanan
+us_presidents,rutherford b hayes,5,rutherford hayes|hayes
+us_presidents,chester a arthur,5,chester arthur|arthur
+us_presidents,benjamin harrison,5,
+us_presidents,william henry harrison,5,
+us_presidents,warren g harding,5,warren harding|harding
+#prompt,painters,Name a famous painter
+painters,vincent van gogh,1,van gogh
+painters,pablo picasso,1,picasso
+painters,leonardo da vinci,1,da vinci|leonardo
+painters,claude monet,1,monet
+painters,michelangelo,1,michelangelo buonarroti
+painters,salvador dali,1,dali
+painters,frida kahlo,1,frida|kahlo
+painters,rembrandt,2,rembrandt van rijn
+painters,andy warhol,2,warhol
+painters,bob ross,2,ross
+painters,georgia okeeffe,2,okeeffe
+painters,edvard munch,2,munch
+painters,johannes vermeer,2,vermeer|jan vermeer
+painters,raphael,2,raffaello sanzio|raphael sanzio
+painters,jackson pollock,2,pollock
+painters,henri matisse,2,matisse
+painters,edgar degas,2,degas
+painters,pierre auguste renoir,2,renoir|auguste renoir
+painters,gustav klimt,2,klimt
+painters,paul cezanne,2,cezanne
+painters,sandro botticelli,2,botticelli
+painters,caravaggio,3,
+painters,rene magritte,3,magritte
+painters,keith haring,3,haring
+painters,jean michel basquiat,3,basquiat
+painters,roy lichtenstein,3,lichtenstein
+painters,edward hopper,3,hopper
+painters,norman rockwell,3,rockwell
+painters,paul gauguin,3,gauguin
+painters,francisco goya,3,goya
+painters,diego velazquez,3,velazquez
+painters,el greco,3,
+painters,wassily kandinsky,3,kandinsky
+painters,piet mondrian,3,mondrian
+painters,marc chagall,3,chagall
+painters,georges seurat,3,seurat
+painters,joan miro,3,miro
+painters,banksy,3,
+painters,mark rothko,3,rothko
+painters,titian,3,
+painters,hieronymus bosch,3,bosch
+painters,grant wood,3,
+painters,j m w turner,3,turner|jmw turner|william turner
+painters,edouard manet,3,manet
+painters,james whistler,3,whistler|james mcneill whistler
+painters,andrew wyeth,3,wyeth
+painters,thomas kinkade,3,kinkade
+painters,yayoi kusama,3,kusama
+painters,david hockney,3,hockney
+painters,jan van eyck,4,van eyck
+painters,pieter bruegel the elder,4,bruegel|brueghel|pieter bruegel|pieter brueghel
+painters,albrecht durer,4,durer
+painters,hans holbein,4,holbein|hans holbein the younger
+painters,peter paul rubens,4,rubens
+painters,giotto,4,giotto di bondone
+painters,jacques louis david,4,
+painters,eugene delacroix,4,delacroix
+painters,camille pissarro,4,pissarro
+painters,henri de toulouse lautrec,4,toulouse lautrec
+painters,mary cassatt,4,cassatt
+painters,john singer sargent,4,sargent
+painters,gustave courbet,4,courbet
+painters,caspar david friedrich,4,
+painters,artemisia gentileschi,4,gentileschi|artemisia
+painters,egon schiele,4,schiele
+painters,amedeo modigliani,4,modigliani
+painters,paul klee,4,klee
+painters,willem de kooning,4,de kooning
+painters,francis bacon,4,
+painters,lucian freud,4,
+painters,jasper johns,4,
+painters,gerhard richter,4,richter
+painters,winslow homer,4,
+painters,berthe morisot,4,morisot
+painters,alphonse mucha,4,mucha
+painters,henri rousseau,4,rousseau
+painters,jean francois millet,4,millet
+painters,frans hals,4,hals
+painters,anthony van dyck,4,van dyck
+painters,jean honore fragonard,4,fragonard
+painters,william blake,4,
+painters,diego rivera,4,
+painters,katsushika hokusai,4,hokusai
+painters,georges braque,4,braque
+painters,john constable,4,constable
+painters,kehinde wiley,4,
+painters,tamara de lempicka,5,de lempicka|lempicka
+painters,fra angelico,5,
+painters,jan steen,5,
+painters,nicolas poussin,5,poussin
+painters,antoine watteau,5,watteau|jean antoine watteau
+painters,francois boucher,5,boucher
+painters,jean auguste dominique ingres,5,ingres
+painters,theodore gericault,5,gericault
+painters,dante gabriel rossetti,5,rossetti
+painters,john everett millais,5,millais
+painters,gustave caillebotte,5,caillebotte
+painters,alfred sisley,5,sisley
+painters,paul signac,5,signac
+painters,odilon redon,5,redon
+painters,kazimir malevich,5,malevich
+painters,umberto boccioni,5,boccioni
+painters,giorgio de chirico,5,de chirico
+painters,max ernst,5,
+painters,yves tanguy,5,tanguy
+painters,jose clemente orozco,5,orozco
+painters,david alfaro siqueiros,5,siqueiros
+painters,cy twombly,5,twombly
+painters,helen frankenthaler,5,frankenthaler
+painters,agnes martin,5,
+painters,barnett newman,5,
+painters,joan mitchell,5,
+painters,lee krasner,5,krasner
+painters,utagawa hiroshige,5,hiroshige
+painters,giorgione,5,
+painters,tintoretto,5,
+painters,paolo veronese,5,veronese
+painters,piero della francesca,5,
+painters,masaccio,5,
+painters,rogier van der weyden,5,van der weyden
+painters,lucas cranach,5,cranach|lucas cranach the elder
+painters,fernand leger,5,leger
+painters,edouard vuillard,5,vuillard
+painters,pierre bonnard,5,bonnard
+painters,james ensor,5,ensor
+painters,ilya repin,5,repin
+painters,ivan aivazovsky,5,aivazovsky
+painters,gustave moreau,5,
+painters,thomas cole,5,
+painters,frederic edwin church,5,
+#prompt,car_brands,Name a car brand
+car_brands,toyota,1,
+car_brands,ford,1,
+car_brands,honda,1,
+car_brands,chevrolet,1,chevy
+car_brands,bmw,1,
+car_brands,tesla,1,
+car_brands,mercedes benz,1,mercedes|benz
+car_brands,ferrari,1,
+car_brands,nissan,2,
+car_brands,audi,2,
+car_brands,volkswagen,2,vw
+car_brands,lamborghini,2,lambo
+car_brands,porsche,2,
+car_brands,jeep,2,
+car_brands,dodge,2,
+car_brands,hyundai,2,
+car_brands,kia,2,
+car_brands,subaru,2,
+car_brands,mazda,2,
+car_brands,lexus,2,
+car_brands,cadillac,2,
+car_brands,jaguar,2,
+car_brands,gmc,2,
+car_brands,buick,3,
+car_brands,chrysler,3,
+car_brands,ram,3,ram trucks
+car_brands,lincoln,3,
+car_brands,acura,3,
+car_brands,infiniti,3,
+car_brands,volvo,3,
+car_brands,land rover,3,range rover
+car_brands,mitsubishi,3,
+car_brands,mini,3,mini cooper
+car_brands,bentley,3,
+car_brands,rolls royce,3,rolls
+car_brands,maserati,3,
+car_brands,aston martin,3,
+car_brands,bugatti,3,
+car_brands,fiat,3,
+car_brands,alfa romeo,3,alfa
+car_brands,genesis,3,
+car_brands,mclaren,3,
+car_brands,peugeot,4,
+car_brands,renault,4,
+car_brands,citroen,4,
+car_brands,skoda,4,
+car_brands,seat,4,
+car_brands,saab,4,
+car_brands,pontiac,4,
+car_brands,oldsmobile,4,
+car_brands,plymouth,4,
+car_brands,hummer,4,
+car_brands,saturn,4,
+car_brands,mercury,4,
+car_brands,lotus,4,
+car_brands,koenigsegg,4,
+car_brands,pagani,4,
+car_brands,rivian,4,
+car_brands,lucid,4,
+car_brands,polestar,4,
+car_brands,smart,4,
+car_brands,scion,4,
+car_brands,suzuki,4,
+car_brands,isuzu,4,
+car_brands,opel,4,
+car_brands,vauxhall,4,
+car_brands,dacia,4,
+car_brands,byd,4,
+car_brands,lada,4,
+car_brands,tata,4,
+car_brands,mahindra,4,
+car_brands,maybach,4,
+car_brands,delorean,4,dmc
+car_brands,datsun,4,
+car_brands,mg,4,morris garages
+car_brands,studebaker,5,
+car_brands,packard,5,
+car_brands,hudson,5,
+car_brands,nash,5,
+car_brands,amc,5,american motors
+car_brands,desoto,5,de soto
+car_brands,edsel,5,
+car_brands,tucker,5,
+car_brands,duesenberg,5,
+car_brands,cord,5,
+car_brands,auburn,5,
+car_brands,pierce arrow,5,
+car_brands,hispano suiza,5,
+car_brands,lancia,5,
+car_brands,de tomaso,5,
+car_brands,spyker,5,
+car_brands,saleen,5,
+car_brands,rimac,5,
+car_brands,geely,5,
+car_brands,nio,5,
+car_brands,xpeng,5,
+car_brands,proton,5,
+car_brands,holden,5,
+car_brands,daewoo,5,
+car_brands,trabant,5,
+car_brands,yugo,5,
+car_brands,geo,5,
+car_brands,eagle,5,
+car_brands,triumph,5,
+car_brands,austin,5,
+car_brands,rover,5,
+car_brands,sunbeam,5,
+car_brands,hillman,5,
+car_brands,simca,5,
+car_brands,borgward,5,
+car_brands,abarth,5,
+car_brands,ssangyong,5,ssang yong
+car_brands,chery,5,
+car_brands,great wall,5,
+car_brands,tvr,5,
+car_brands,morgan,5,
+car_brands,caterham,5,
+car_brands,fisker,5,
+car_brands,vinfast,5,
+car_brands,alpine,5,
+car_brands,cupra,5,
+car_brands,lagonda,5,
+car_brands,nsu,5,
+car_brands,dkw,5,

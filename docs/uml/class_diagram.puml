@@ -1,0 +1,99 @@
+@startuml class_diagram
+!pragma layout smetana
+title Krillion Defense - Class Diagram
+skinparam monochrome true
+skinparam classAttributeIconSize 0
+skinparam shadowing false
+hide circle
+hide empty members
+
+class Main {
+  + main(args)
+}
+class GameFrame
+class GamePanel {
+  - towers
+  - enemies
+  + actionPerformed(e)
+  + paintComponent(g)
+}
+class QuestionDialog {
+  + showQuestion(q)
+}
+class GameState {
+  - gold
+  - lives
+  - waveNumber
+}
+class GameMap {
+  + isBuildable(col, row)
+}
+class WaveManager {
+  + startWave(waveNumber)
+}
+
+abstract class Tower {
+  # damage
+  # range
+  + update(enemies, shots)
+}
+class ArrowTower
+class FrostTower
+class CannonTower
+class ScholarTower
+
+abstract class Enemy {
+  # health
+  # speed
+  + move(map)
+}
+class BasicEnemy
+class FastEnemy
+class TankEnemy
+class BossEnemy
+
+class QuestionManager {
+  + nextQuestion()
+  + submitAnswer(q, input)
+}
+class AnswerBank {
+  + find(category, answer)
+}
+
+interface PowerUp {
+  + apply(state, towers, enemies)
+}
+class RewardFactory {
+  + create(tier)
+}
+class GoldBonus
+class DamageBoost
+class FreezeEnemies
+class KnowledgeBlast
+
+Main --> GameFrame
+GameFrame --> GamePanel
+GamePanel --> GameState
+GamePanel --> GameMap
+GamePanel --> WaveManager
+GamePanel --> QuestionManager
+GamePanel --> QuestionDialog
+GamePanel --> Tower
+GamePanel --> Enemy
+GamePanel --> RewardFactory
+QuestionManager --> AnswerBank
+RewardFactory --> PowerUp
+
+Tower <|-- ArrowTower
+Tower <|-- FrostTower
+Tower <|-- CannonTower
+Tower <|-- ScholarTower
+Enemy <|-- BasicEnemy
+Enemy <|-- FastEnemy
+Enemy <|-- TankEnemy
+Enemy <|-- BossEnemy
+PowerUp <|.. GoldBonus
+PowerUp <|.. DamageBoost
+PowerUp <|.. FreezeEnemies
+PowerUp <|.. KnowledgeBlast
+@enduml

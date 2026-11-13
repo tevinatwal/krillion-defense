@@ -1,0 +1,13 @@
+# build output
+out/
+target/
+
+# IDE files
+.idea/
+*.iml
+
+# Mac
+.DS_Store
+
+# notes
+CLAUDE.md
